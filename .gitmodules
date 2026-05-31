@@ -1,0 +1,6 @@
+[submodule "upstream/wavedit-online"]
+	path = upstream/wavedit-online
+	url = https://github.com/smpldsnds/wavedit-online.git
+[submodule "upstream/AKWF-FREE"]
+	path = upstream/AKWF-FREE
+	url = https://github.com/KristofferKarlAxelEkstrand/AKWF-FREE.git
