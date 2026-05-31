@@ -1,0 +1,86 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Enkerli/vane-wavetable-library/metadata/tables.schema.json",
+  "title": "Vane Wavetable Metadata",
+  "type": "object",
+  "required": ["id", "title", "source", "license", "curationStatus", "frameCount", "frameLength", "morphIntent"],
+  "properties": {
+    "id": { "type": "string" },
+    "title": { "type": "string" },
+    "filename": { "type": ["string", "null"] },
+    "path": { "type": ["string", "null"] },
+    "source": { "type": "string" },
+    "sourceIds": { "type": "array", "items": { "type": "string" } },
+    "license": { "type": "string" },
+    "licenseEvidence": { "type": ["string", "null"] },
+    "author": { "type": ["string", "null"] },
+    "family": { "type": "string" },
+    "tags": { "type": "array", "items": { "type": "string" } },
+    "curationStatus": {
+      "type": "string",
+      "enum": ["source", "candidate", "auditioned", "curated", "rejected", "deprecated"]
+    },
+    "frameCount": { "type": "integer", "minimum": 1 },
+    "frameLength": { "type": "integer", "minimum": 16 },
+    "sampleRate": { "type": ["integer", "null"] },
+    "bitDepth": { "type": ["integer", "null"] },
+    "morphIntent": {
+      "type": "string",
+      "enum": [
+        "spectral_enrichment",
+        "brightness_ramp",
+        "fold_growth",
+        "asymmetry_growth",
+        "noise_growth",
+        "formant_shift",
+        "pulse_motion",
+        "digital_decay",
+        "hybrid",
+        "unknown"
+      ]
+    },
+    "analysis": {
+      "type": "object",
+      "properties": {
+        "spectralCentroidMin": { "type": ["number", "null"] },
+        "spectralCentroidMax": { "type": ["number", "null"] },
+        "rmsMin": { "type": ["number", "null"] },
+        "rmsMax": { "type": ["number", "null"] },
+        "roughnessMin": { "type": ["number", "null"] },
+        "roughnessMax": { "type": ["number", "null"] },
+        "continuityScore": { "type": ["number", "null"], "minimum": 0, "maximum": 1 },
+        "monotonicityScore": { "type": ["number", "null"], "minimum": 0, "maximum": 1 },
+        "uniquenessScore": { "type": ["number", "null"], "minimum": 0, "maximum": 1 },
+        "vaneQualityScore": { "type": ["number", "null"], "minimum": 0, "maximum": 1 }
+      },
+      "additionalProperties": true
+    },
+    "performance": {
+      "type": "object",
+      "properties": {
+        "breathCC02": { "$ref": "#/$defs/controllerTest" },
+        "mpeSlide": { "$ref": "#/$defs/controllerTest" },
+        "fastMorph": { "$ref": "#/$defs/controllerTest" },
+        "slowMorph": { "$ref": "#/$defs/controllerTest" },
+        "sweetSpotCoverage": { "type": ["integer", "null"], "minimum": 0, "maximum": 10 },
+        "notes": { "type": "string" }
+      },
+      "additionalProperties": true
+    },
+    "recommendedUses": { "type": "array", "items": { "type": "string" } },
+    "notes": { "type": "string" }
+  },
+  "$defs": {
+    "controllerTest": {
+      "type": "object",
+      "properties": {
+        "tested": { "type": "boolean" },
+        "controller": { "type": ["string", "null"] },
+        "rating": { "type": ["integer", "null"], "minimum": 0, "maximum": 10 },
+        "notes": { "type": "string" }
+      },
+      "required": ["tested"]
+    }
+  },
+  "additionalProperties": false
+}

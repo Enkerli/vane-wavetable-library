@@ -1,0 +1,63 @@
+[
+  {
+    "id": "vane_generated_harmonic_growth_001",
+    "title": "Harmonic Growth 001",
+    "filename": "vane_generated_harmonic_growth_001.wav",
+    "path": "wavetables/generated/vane_generated_harmonic_growth_001.wav",
+    "source": "vane_generated",
+    "sourceIds": ["vane_generated"],
+    "license": "CC0",
+    "licenseEvidence": "Generated for this repository; intended CC0.",
+    "author": "Alex Enkerli / Vane project",
+    "family": "harmonic_growth",
+    "tags": ["generated", "additive", "smooth", "breath", "mpe-slide"],
+    "curationStatus": "candidate",
+    "frameCount": 32,
+    "frameLength": 2048,
+    "sampleRate": 44100,
+    "bitDepth": 32,
+    "morphIntent": "spectral_enrichment",
+    "analysis": {
+      "spectralCentroidMin": null,
+      "spectralCentroidMax": null,
+      "rmsMin": null,
+      "rmsMax": null,
+      "roughnessMin": null,
+      "roughnessMax": null,
+      "continuityScore": null,
+      "monotonicityScore": null,
+      "uniquenessScore": null,
+      "vaneQualityScore": null
+    },
+    "performance": {
+      "breathCC02": {
+        "tested": false,
+        "controller": null,
+        "rating": null,
+        "notes": "Primary Vane audition path. Test with windcontroller breath mapped to morph."
+      },
+      "mpeSlide": {
+        "tested": false,
+        "controller": null,
+        "rating": null,
+        "notes": "Test with slide/Y-axis mapped to morph."
+      },
+      "fastMorph": {
+        "tested": false,
+        "controller": null,
+        "rating": null,
+        "notes": "Check whether rapid gestures produce useful articulation or distracting zippering."
+      },
+      "slowMorph": {
+        "tested": false,
+        "controller": null,
+        "rating": null,
+        "notes": "Check long crescendos and sustained timbral movement."
+      },
+      "sweetSpotCoverage": null,
+      "notes": "Promote only after direct performance tests."
+    },
+    "recommendedUses": ["windcontroller lead", "MPE pad", "breath-driven timbral crescendo"],
+    "notes": "Starter generated candidate."
+  }
+]

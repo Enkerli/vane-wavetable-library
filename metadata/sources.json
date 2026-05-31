@@ -1,0 +1,48 @@
+{
+  "sources": [
+    {
+      "id": "akwf",
+      "name": "Adventure Kid Waveforms",
+      "shortName": "AKWF",
+      "sourceType": "single_cycle_waveforms",
+      "licenseClaim": "Public Domain / CC0-compatible; verify from downloaded package or source mirror before redistribution.",
+      "licenseStatus": "needs_local_verification",
+      "homepage": "https://www.adventurekid.se/akrt/waveforms/adventure-kid-waveforms/",
+      "preferredUse": "Mine related single-cycle families into ordered Vane morph trajectories.",
+      "notes": "Preserve original folder structure and filenames in wavetables/source/AKWF/. Do not treat every adjacent filename as automatically morph-compatible; analyze and audition."
+    },
+    {
+      "id": "waveedit_online",
+      "name": "WaveEdit Online",
+      "shortName": "WaveEdit",
+      "sourceType": "wavetable_banks",
+      "licenseClaim": "CC0 according to repository documentation; verify current repository license before redistribution.",
+      "licenseStatus": "needs_local_verification",
+      "homepage": "https://github.com/smpldsnds/wavedit-online/",
+      "preferredUse": "Import existing banks as candidates, then reorder/filter for Vane morph continuity.",
+      "notes": "Metadata may be sparse. Existing 64-frame banks may need re-analysis and reordering."
+    },
+    {
+      "id": "kimura_taro",
+      "name": "Kimura Taro Public Domain Wavetables",
+      "shortName": "KimuraTaro",
+      "sourceType": "wavetable_banks_or_single_cycles",
+      "licenseClaim": "Historically distributed as Public Domain; current license may have changed. Keep archived evidence with source files.",
+      "licenseStatus": "historical_public_domain_needs_evidence",
+      "homepage": null,
+      "preferredUse": "Recover historically Public Domain material with strong provenance notes.",
+      "notes": "Do not import unless license/provenance evidence is captured in the source folder."
+    },
+    {
+      "id": "vane_generated",
+      "name": "Vane Generated Candidates",
+      "shortName": "Generated",
+      "sourceType": "procedural_generation",
+      "licenseClaim": "CC0 by repository author unless otherwise noted.",
+      "licenseStatus": "repo_defined",
+      "homepage": null,
+      "preferredUse": "Generate controlled morph trajectories, then curate through breath/MPE performance.",
+      "notes": "Generated does not mean curated. Promotion requires audition metadata."
+    }
+  ]
+}
