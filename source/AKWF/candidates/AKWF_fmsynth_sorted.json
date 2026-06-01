@@ -1,0 +1,618 @@
+{
+  "source": "upstream/AKWF/AKWF/AKWF_fmsynth",
+  "frame_size": 2048,
+  "frame_count": 122,
+  "direction": "dark_to_bright",
+  "frames": [
+    {
+      "index": 0,
+      "source_name": "AKWF_fmsynth_0077.wav",
+      "centroid": 0.001838
+    },
+    {
+      "index": 1,
+      "source_name": "AKWF_fmsynth_0070.wav",
+      "centroid": 0.001877
+    },
+    {
+      "index": 2,
+      "source_name": "AKWF_fmsynth_0020.wav",
+      "centroid": 0.002155
+    },
+    {
+      "index": 3,
+      "source_name": "AKWF_fmsynth_0090.wav",
+      "centroid": 0.002241
+    },
+    {
+      "index": 4,
+      "source_name": "AKWF_fmsynth_0021.wav",
+      "centroid": 0.002243
+    },
+    {
+      "index": 5,
+      "source_name": "AKWF_fmsynth_0106.wav",
+      "centroid": 0.002253
+    },
+    {
+      "index": 6,
+      "source_name": "AKWF_fmsynth_0041.wav",
+      "centroid": 0.002306
+    },
+    {
+      "index": 7,
+      "source_name": "AKWF_fmsynth_0087.wav",
+      "centroid": 0.002328
+    },
+    {
+      "index": 8,
+      "source_name": "AKWF_fmsynth_0007.wav",
+      "centroid": 0.002354
+    },
+    {
+      "index": 9,
+      "source_name": "AKWF_fmsynth_0079.wav",
+      "centroid": 0.002505
+    },
+    {
+      "index": 10,
+      "source_name": "AKWF_fmsynth_0037.wav",
+      "centroid": 0.002867
+    },
+    {
+      "index": 11,
+      "source_name": "AKWF_fmsynth_0089.wav",
+      "centroid": 0.002912
+    },
+    {
+      "index": 12,
+      "source_name": "AKWF_fmsynth_0067.wav",
+      "centroid": 0.003039
+    },
+    {
+      "index": 13,
+      "source_name": "AKWF_fmsynth_0049.wav",
+      "centroid": 0.00304
+    },
+    {
+      "index": 14,
+      "source_name": "AKWF_fmsynth_0108.wav",
+      "centroid": 0.003126
+    },
+    {
+      "index": 15,
+      "source_name": "AKWF_fmsynth_0078.wav",
+      "centroid": 0.003167
+    },
+    {
+      "index": 16,
+      "source_name": "AKWF_fmsynth_0039.wav",
+      "centroid": 0.003173
+    },
+    {
+      "index": 17,
+      "source_name": "AKWF_fmsynth_0047.wav",
+      "centroid": 0.003225
+    },
+    {
+      "index": 18,
+      "source_name": "AKWF_fmsynth_0091.wav",
+      "centroid": 0.003359
+    },
+    {
+      "index": 19,
+      "source_name": "AKWF_fmsynth_0023.wav",
+      "centroid": 0.003559
+    },
+    {
+      "index": 20,
+      "source_name": "AKWF_fmsynth_0043.wav",
+      "centroid": 0.003663
+    },
+    {
+      "index": 21,
+      "source_name": "AKWF_fmsynth_0073.wav",
+      "centroid": 0.003676
+    },
+    {
+      "index": 22,
+      "source_name": "AKWF_fmsynth_0104.wav",
+      "centroid": 0.003752
+    },
+    {
+      "index": 23,
+      "source_name": "AKWF_fmsynth_0100.wav",
+      "centroid": 0.003935
+    },
+    {
+      "index": 24,
+      "source_name": "AKWF_fmsynth_0101.wav",
+      "centroid": 0.003935
+    },
+    {
+      "index": 25,
+      "source_name": "AKWF_fmsynth_0115.wav",
+      "centroid": 0.003936
+    },
+    {
+      "index": 26,
+      "source_name": "AKWF_fmsynth_0022.wav",
+      "centroid": 0.003951
+    },
+    {
+      "index": 27,
+      "source_name": "AKWF_fmsynth_0116.wav",
+      "centroid": 0.003967
+    },
+    {
+      "index": 28,
+      "source_name": "AKWF_fmsynth_0028.wav",
+      "centroid": 0.004035
+    },
+    {
+      "index": 29,
+      "source_name": "AKWF_fmsynth_0012.wav",
+      "centroid": 0.004061
+    },
+    {
+      "index": 30,
+      "source_name": "AKWF_fmsynth_0068.wav",
+      "centroid": 0.00408
+    },
+    {
+      "index": 31,
+      "source_name": "AKWF_fmsynth_0085.wav",
+      "centroid": 0.004108
+    },
+    {
+      "index": 32,
+      "source_name": "AKWF_fmsynth_0088.wav",
+      "centroid": 0.004188
+    },
+    {
+      "index": 33,
+      "source_name": "AKWF_fmsynth_0114.wav",
+      "centroid": 0.004219
+    },
+    {
+      "index": 34,
+      "source_name": "AKWF_fmsynth_0071.wav",
+      "centroid": 0.0043
+    },
+    {
+      "index": 35,
+      "source_name": "AKWF_fmsynth_0042.wav",
+      "centroid": 0.004337
+    },
+    {
+      "index": 36,
+      "source_name": "AKWF_fmsynth_0084.wav",
+      "centroid": 0.004351
+    },
+    {
+      "index": 37,
+      "source_name": "AKWF_fmsynth_0117.wav",
+      "centroid": 0.004353
+    },
+    {
+      "index": 38,
+      "source_name": "AKWF_fmsynth_0107.wav",
+      "centroid": 0.00437
+    },
+    {
+      "index": 39,
+      "source_name": "AKWF_fmsynth_0044.wav",
+      "centroid": 0.004386
+    },
+    {
+      "index": 40,
+      "source_name": "AKWF_fmsynth_0099.wav",
+      "centroid": 0.004398
+    },
+    {
+      "index": 41,
+      "source_name": "AKWF_fmsynth_0046.wav",
+      "centroid": 0.004435
+    },
+    {
+      "index": 42,
+      "source_name": "AKWF_fmsynth_0112.wav",
+      "centroid": 0.004445
+    },
+    {
+      "index": 43,
+      "source_name": "AKWF_fmsynth_0119.wav",
+      "centroid": 0.004615
+    },
+    {
+      "index": 44,
+      "source_name": "AKWF_fmsynth_0031.wav",
+      "centroid": 0.004755
+    },
+    {
+      "index": 45,
+      "source_name": "AKWF_fmsynth_0006.wav",
+      "centroid": 0.00481
+    },
+    {
+      "index": 46,
+      "source_name": "AKWF_fmsynth_0121.wav",
+      "centroid": 0.004855
+    },
+    {
+      "index": 47,
+      "source_name": "AKWF_fmsynth_0093.wav",
+      "centroid": 0.004903
+    },
+    {
+      "index": 48,
+      "source_name": "AKWF_fmsynth_0083.wav",
+      "centroid": 0.004941
+    },
+    {
+      "index": 49,
+      "source_name": "AKWF_fmsynth_0122.wav",
+      "centroid": 0.005063
+    },
+    {
+      "index": 50,
+      "source_name": "AKWF_fmsynth_0052.wav",
+      "centroid": 0.005123
+    },
+    {
+      "index": 51,
+      "source_name": "AKWF_fmsynth_0097.wav",
+      "centroid": 0.005151
+    },
+    {
+      "index": 52,
+      "source_name": "AKWF_fmsynth_0076.wav",
+      "centroid": 0.005261
+    },
+    {
+      "index": 53,
+      "source_name": "AKWF_fmsynth_0075.wav",
+      "centroid": 0.005377
+    },
+    {
+      "index": 54,
+      "source_name": "AKWF_fmsynth_0063.wav",
+      "centroid": 0.005494
+    },
+    {
+      "index": 55,
+      "source_name": "AKWF_fmsynth_0094.wav",
+      "centroid": 0.005525
+    },
+    {
+      "index": 56,
+      "source_name": "AKWF_fmsynth_0062.wav",
+      "centroid": 0.005581
+    },
+    {
+      "index": 57,
+      "source_name": "AKWF_fmsynth_0098.wav",
+      "centroid": 0.005955
+    },
+    {
+      "index": 58,
+      "source_name": "AKWF_fmsynth_0095.wav",
+      "centroid": 0.005962
+    },
+    {
+      "index": 59,
+      "source_name": "AKWF_fmsynth_0005.wav",
+      "centroid": 0.006248
+    },
+    {
+      "index": 60,
+      "source_name": "AKWF_fmsynth_0109.wav",
+      "centroid": 0.006276
+    },
+    {
+      "index": 61,
+      "source_name": "AKWF_fmsynth_0050.wav",
+      "centroid": 0.006305
+    },
+    {
+      "index": 62,
+      "source_name": "AKWF_fmsynth_0072.wav",
+      "centroid": 0.006436
+    },
+    {
+      "index": 63,
+      "source_name": "AKWF_fmsynth_0080.wav",
+      "centroid": 0.006506
+    },
+    {
+      "index": 64,
+      "source_name": "AKWF_fmsynth_0009.wav",
+      "centroid": 0.006579
+    },
+    {
+      "index": 65,
+      "source_name": "AKWF_fmsynth_0111.wav",
+      "centroid": 0.006611
+    },
+    {
+      "index": 66,
+      "source_name": "AKWF_fmsynth_0045.wav",
+      "centroid": 0.006652
+    },
+    {
+      "index": 67,
+      "source_name": "AKWF_fmsynth_0010.wav",
+      "centroid": 0.006826
+    },
+    {
+      "index": 68,
+      "source_name": "AKWF_fmsynth_0061.wav",
+      "centroid": 0.006831
+    },
+    {
+      "index": 69,
+      "source_name": "AKWF_fmsynth_0096.wav",
+      "centroid": 0.00685
+    },
+    {
+      "index": 70,
+      "source_name": "AKWF_fmsynth_0082.wav",
+      "centroid": 0.007103
+    },
+    {
+      "index": 71,
+      "source_name": "AKWF_fmsynth_0001.wav",
+      "centroid": 0.007159
+    },
+    {
+      "index": 72,
+      "source_name": "AKWF_fmsynth_0024.wav",
+      "centroid": 0.007376
+    },
+    {
+      "index": 73,
+      "source_name": "AKWF_fmsynth_0110.wav",
+      "centroid": 0.007645
+    },
+    {
+      "index": 74,
+      "source_name": "AKWF_fmsynth_0013.wav",
+      "centroid": 0.007731
+    },
+    {
+      "index": 75,
+      "source_name": "AKWF_fmsynth_0086.wav",
+      "centroid": 0.007804
+    },
+    {
+      "index": 76,
+      "source_name": "AKWF_fmsynth_0081.wav",
+      "centroid": 0.007867
+    },
+    {
+      "index": 77,
+      "source_name": "AKWF_fmsynth_0069.wav",
+      "centroid": 0.008212
+    },
+    {
+      "index": 78,
+      "source_name": "AKWF_fmsynth_0113.wav",
+      "centroid": 0.008222
+    },
+    {
+      "index": 79,
+      "source_name": "AKWF_fmsynth_0015.wav",
+      "centroid": 0.008434
+    },
+    {
+      "index": 80,
+      "source_name": "AKWF_fmsynth_0118.wav",
+      "centroid": 0.008731
+    },
+    {
+      "index": 81,
+      "source_name": "AKWF_fmsynth_0074.wav",
+      "centroid": 0.008755
+    },
+    {
+      "index": 82,
+      "source_name": "AKWF_fmsynth_0048.wav",
+      "centroid": 0.009023
+    },
+    {
+      "index": 83,
+      "source_name": "AKWF_fmsynth_0029.wav",
+      "centroid": 0.009054
+    },
+    {
+      "index": 84,
+      "source_name": "AKWF_fmsynth_0120.wav",
+      "centroid": 0.009063
+    },
+    {
+      "index": 85,
+      "source_name": "AKWF_fmsynth_0102.wav",
+      "centroid": 0.009108
+    },
+    {
+      "index": 86,
+      "source_name": "AKWF_fmsynth_0054.wav",
+      "centroid": 0.0093
+    },
+    {
+      "index": 87,
+      "source_name": "AKWF_fmsynth_0019.wav",
+      "centroid": 0.009426
+    },
+    {
+      "index": 88,
+      "source_name": "AKWF_fmsynth_0033.wav",
+      "centroid": 0.009803
+    },
+    {
+      "index": 89,
+      "source_name": "AKWF_fmsynth_0025.wav",
+      "centroid": 0.009865
+    },
+    {
+      "index": 90,
+      "source_name": "AKWF_fmsynth_0038.wav",
+      "centroid": 0.01016
+    },
+    {
+      "index": 91,
+      "source_name": "AKWF_fmsynth_0032.wav",
+      "centroid": 0.010312
+    },
+    {
+      "index": 92,
+      "source_name": "AKWF_fmsynth_0051.wav",
+      "centroid": 0.010422
+    },
+    {
+      "index": 93,
+      "source_name": "AKWF_fmsynth_0057.wav",
+      "centroid": 0.010518
+    },
+    {
+      "index": 94,
+      "source_name": "AKWF_fmsynth_0014.wav",
+      "centroid": 0.010535
+    },
+    {
+      "index": 95,
+      "source_name": "AKWF_fmsynth_0092.wav",
+      "centroid": 0.010701
+    },
+    {
+      "index": 96,
+      "source_name": "AKWF_fmsynth_0011.wav",
+      "centroid": 0.010773
+    },
+    {
+      "index": 97,
+      "source_name": "AKWF_fmsynth_0059.wav",
+      "centroid": 0.011057
+    },
+    {
+      "index": 98,
+      "source_name": "AKWF_fmsynth_0060.wav",
+      "centroid": 0.011188
+    },
+    {
+      "index": 99,
+      "source_name": "AKWF_fmsynth_0016.wav",
+      "centroid": 0.011434
+    },
+    {
+      "index": 100,
+      "source_name": "AKWF_fmsynth_0066.wav",
+      "centroid": 0.011614
+    },
+    {
+      "index": 101,
+      "source_name": "AKWF_fmsynth_0058.wav",
+      "centroid": 0.011626
+    },
+    {
+      "index": 102,
+      "source_name": "AKWF_fmsynth_0065.wav",
+      "centroid": 0.011651
+    },
+    {
+      "index": 103,
+      "source_name": "AKWF_fmsynth_0103.wav",
+      "centroid": 0.012203
+    },
+    {
+      "index": 104,
+      "source_name": "AKWF_fmsynth_0004.wav",
+      "centroid": 0.012276
+    },
+    {
+      "index": 105,
+      "source_name": "AKWF_fmsynth_0017.wav",
+      "centroid": 0.01231
+    },
+    {
+      "index": 106,
+      "source_name": "AKWF_fmsynth_0030.wav",
+      "centroid": 0.012811
+    },
+    {
+      "index": 107,
+      "source_name": "AKWF_fmsynth_0105.wav",
+      "centroid": 0.014091
+    },
+    {
+      "index": 108,
+      "source_name": "AKWF_fmsynth_0018.wav",
+      "centroid": 0.014888
+    },
+    {
+      "index": 109,
+      "source_name": "AKWF_fmsynth_0040.wav",
+      "centroid": 0.016274
+    },
+    {
+      "index": 110,
+      "source_name": "AKWF_fmsynth_0036.wav",
+      "centroid": 0.016862
+    },
+    {
+      "index": 111,
+      "source_name": "AKWF_fmsynth_0055.wav",
+      "centroid": 0.017639
+    },
+    {
+      "index": 112,
+      "source_name": "AKWF_fmsynth_0056.wav",
+      "centroid": 0.017842
+    },
+    {
+      "index": 113,
+      "source_name": "AKWF_fmsynth_0008.wav",
+      "centroid": 0.01785
+    },
+    {
+      "index": 114,
+      "source_name": "AKWF_fmsynth_0035.wav",
+      "centroid": 0.018538
+    },
+    {
+      "index": 115,
+      "source_name": "AKWF_fmsynth_0003.wav",
+      "centroid": 0.019106
+    },
+    {
+      "index": 116,
+      "source_name": "AKWF_fmsynth_0027.wav",
+      "centroid": 0.019554
+    },
+    {
+      "index": 117,
+      "source_name": "AKWF_fmsynth_0034.wav",
+      "centroid": 0.019892
+    },
+    {
+      "index": 118,
+      "source_name": "AKWF_fmsynth_0053.wav",
+      "centroid": 0.020022
+    },
+    {
+      "index": 119,
+      "source_name": "AKWF_fmsynth_0064.wav",
+      "centroid": 0.020773
+    },
+    {
+      "index": 120,
+      "source_name": "AKWF_fmsynth_0002.wav",
+      "centroid": 0.023176
+    },
+    {
+      "index": 121,
+      "source_name": "AKWF_fmsynth_0026.wav",
+      "centroid": 0.069932
+    }
+  ]
+}

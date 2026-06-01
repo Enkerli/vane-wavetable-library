@@ -1,0 +1,168 @@
+{
+  "source": "source/AKWF/candidates/additive/akwf_AKWF_007.wav",
+  "frame_size": 2048,
+  "frame_count": 32,
+  "direction": "dark_to_bright",
+  "frames": [
+    {
+      "index": 0,
+      "source_name": "frame_000",
+      "centroid": 0.050092
+    },
+    {
+      "index": 1,
+      "source_name": "frame_001",
+      "centroid": 0.061772
+    },
+    {
+      "index": 2,
+      "source_name": "frame_004",
+      "centroid": 0.066042
+    },
+    {
+      "index": 3,
+      "source_name": "frame_003",
+      "centroid": 0.066802
+    },
+    {
+      "index": 4,
+      "source_name": "frame_002",
+      "centroid": 0.069002
+    },
+    {
+      "index": 5,
+      "source_name": "frame_007",
+      "centroid": 0.078214
+    },
+    {
+      "index": 6,
+      "source_name": "frame_031",
+      "centroid": 0.08022
+    },
+    {
+      "index": 7,
+      "source_name": "frame_009",
+      "centroid": 0.085187
+    },
+    {
+      "index": 8,
+      "source_name": "frame_005",
+      "centroid": 0.087752
+    },
+    {
+      "index": 9,
+      "source_name": "frame_006",
+      "centroid": 0.089277
+    },
+    {
+      "index": 10,
+      "source_name": "frame_028",
+      "centroid": 0.09481
+    },
+    {
+      "index": 11,
+      "source_name": "frame_008",
+      "centroid": 0.104686
+    },
+    {
+      "index": 12,
+      "source_name": "frame_030",
+      "centroid": 0.10575
+    },
+    {
+      "index": 13,
+      "source_name": "frame_021",
+      "centroid": 0.107812
+    },
+    {
+      "index": 14,
+      "source_name": "frame_013",
+      "centroid": 0.121719
+    },
+    {
+      "index": 15,
+      "source_name": "frame_029",
+      "centroid": 0.136357
+    },
+    {
+      "index": 16,
+      "source_name": "frame_022",
+      "centroid": 0.13769
+    },
+    {
+      "index": 17,
+      "source_name": "frame_015",
+      "centroid": 0.139221
+    },
+    {
+      "index": 18,
+      "source_name": "frame_026",
+      "centroid": 0.140069
+    },
+    {
+      "index": 19,
+      "source_name": "frame_014",
+      "centroid": 0.141961
+    },
+    {
+      "index": 20,
+      "source_name": "frame_012",
+      "centroid": 0.144472
+    },
+    {
+      "index": 21,
+      "source_name": "frame_011",
+      "centroid": 0.146233
+    },
+    {
+      "index": 22,
+      "source_name": "frame_010",
+      "centroid": 0.15253
+    },
+    {
+      "index": 23,
+      "source_name": "frame_024",
+      "centroid": 0.159563
+    },
+    {
+      "index": 24,
+      "source_name": "frame_023",
+      "centroid": 0.168436
+    },
+    {
+      "index": 25,
+      "source_name": "frame_017",
+      "centroid": 0.181685
+    },
+    {
+      "index": 26,
+      "source_name": "frame_019",
+      "centroid": 0.182689
+    },
+    {
+      "index": 27,
+      "source_name": "frame_025",
+      "centroid": 0.183915
+    },
+    {
+      "index": 28,
+      "source_name": "frame_018",
+      "centroid": 0.185331
+    },
+    {
+      "index": 29,
+      "source_name": "frame_027",
+      "centroid": 0.188762
+    },
+    {
+      "index": 30,
+      "source_name": "frame_016",
+      "centroid": 0.19061
+    },
+    {
+      "index": 31,
+      "source_name": "frame_020",
+      "centroid": 0.226017
+    }
+  ]
+}

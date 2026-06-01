@@ -1,0 +1,528 @@
+{
+  "source": "upstream/AKWF/AKWF/AKWF_hvoice",
+  "frame_size": 2048,
+  "frame_count": 104,
+  "direction": "dark_to_bright",
+  "frames": [
+    {
+      "index": 0,
+      "source_name": "AKWF_hvoice_0025.wav",
+      "centroid": 0.002293
+    },
+    {
+      "index": 1,
+      "source_name": "AKWF_hvoice_0090.wav",
+      "centroid": 0.002299
+    },
+    {
+      "index": 2,
+      "source_name": "AKWF_hvoice_0085.wav",
+      "centroid": 0.002304
+    },
+    {
+      "index": 3,
+      "source_name": "AKWF_hvoice_0083.wav",
+      "centroid": 0.002304
+    },
+    {
+      "index": 4,
+      "source_name": "AKWF_hvoice_0088.wav",
+      "centroid": 0.002507
+    },
+    {
+      "index": 5,
+      "source_name": "AKWF_hvoice_0087.wav",
+      "centroid": 0.00252
+    },
+    {
+      "index": 6,
+      "source_name": "AKWF_hvoice_0023.wav",
+      "centroid": 0.002871
+    },
+    {
+      "index": 7,
+      "source_name": "AKWF_hvoice_0076.wav",
+      "centroid": 0.002939
+    },
+    {
+      "index": 8,
+      "source_name": "AKWF_hvoice_0089.wav",
+      "centroid": 0.003494
+    },
+    {
+      "index": 9,
+      "source_name": "AKWF_hvoice_0084.wav",
+      "centroid": 0.003795
+    },
+    {
+      "index": 10,
+      "source_name": "AKWF_hvoice_0007.wav",
+      "centroid": 0.004186
+    },
+    {
+      "index": 11,
+      "source_name": "AKWF_hvoice_0008.wav",
+      "centroid": 0.00421
+    },
+    {
+      "index": 12,
+      "source_name": "AKWF_hvoice_0026.wav",
+      "centroid": 0.004567
+    },
+    {
+      "index": 13,
+      "source_name": "AKWF_hvoice_0074.wav",
+      "centroid": 0.004912
+    },
+    {
+      "index": 14,
+      "source_name": "AKWF_hvoice_0033.wav",
+      "centroid": 0.004947
+    },
+    {
+      "index": 15,
+      "source_name": "AKWF_hvoice_0080.wav",
+      "centroid": 0.004997
+    },
+    {
+      "index": 16,
+      "source_name": "AKWF_hvoice_0002.wav",
+      "centroid": 0.005163
+    },
+    {
+      "index": 17,
+      "source_name": "AKWF_hvoice_0024.wav",
+      "centroid": 0.005294
+    },
+    {
+      "index": 18,
+      "source_name": "AKWF_hvoice_0003.wav",
+      "centroid": 0.005535
+    },
+    {
+      "index": 19,
+      "source_name": "AKWF_hvoice_0016.wav",
+      "centroid": 0.005605
+    },
+    {
+      "index": 20,
+      "source_name": "AKWF_hvoice_0081.wav",
+      "centroid": 0.00591
+    },
+    {
+      "index": 21,
+      "source_name": "AKWF_hvoice_0097.wav",
+      "centroid": 0.005989
+    },
+    {
+      "index": 22,
+      "source_name": "AKWF_hvoice_0001.wav",
+      "centroid": 0.006031
+    },
+    {
+      "index": 23,
+      "source_name": "AKWF_hvoice_0099.wav",
+      "centroid": 0.00643
+    },
+    {
+      "index": 24,
+      "source_name": "AKWF_hvoice_0013.wav",
+      "centroid": 0.006555
+    },
+    {
+      "index": 25,
+      "source_name": "AKWF_hvoice_0104.wav",
+      "centroid": 0.006578
+    },
+    {
+      "index": 26,
+      "source_name": "AKWF_hvoice_0011.wav",
+      "centroid": 0.006594
+    },
+    {
+      "index": 27,
+      "source_name": "AKWF_hvoice_0012.wav",
+      "centroid": 0.006711
+    },
+    {
+      "index": 28,
+      "source_name": "AKWF_hvoice_0017.wav",
+      "centroid": 0.006754
+    },
+    {
+      "index": 29,
+      "source_name": "AKWF_hvoice_0078.wav",
+      "centroid": 0.006774
+    },
+    {
+      "index": 30,
+      "source_name": "AKWF_hvoice_0010.wav",
+      "centroid": 0.007001
+    },
+    {
+      "index": 31,
+      "source_name": "AKWF_hvoice_0082.wav",
+      "centroid": 0.007024
+    },
+    {
+      "index": 32,
+      "source_name": "AKWF_hvoice_0069.wav",
+      "centroid": 0.007042
+    },
+    {
+      "index": 33,
+      "source_name": "AKWF_hvoice_0027.wav",
+      "centroid": 0.007069
+    },
+    {
+      "index": 34,
+      "source_name": "AKWF_hvoice_0009.wav",
+      "centroid": 0.007563
+    },
+    {
+      "index": 35,
+      "source_name": "AKWF_hvoice_0077.wav",
+      "centroid": 0.008194
+    },
+    {
+      "index": 36,
+      "source_name": "AKWF_hvoice_0039.wav",
+      "centroid": 0.008318
+    },
+    {
+      "index": 37,
+      "source_name": "AKWF_hvoice_0006.wav",
+      "centroid": 0.008453
+    },
+    {
+      "index": 38,
+      "source_name": "AKWF_hvoice_0035.wav",
+      "centroid": 0.008483
+    },
+    {
+      "index": 39,
+      "source_name": "AKWF_hvoice_0067.wav",
+      "centroid": 0.008485
+    },
+    {
+      "index": 40,
+      "source_name": "AKWF_hvoice_0048.wav",
+      "centroid": 0.008784
+    },
+    {
+      "index": 41,
+      "source_name": "AKWF_hvoice_0029.wav",
+      "centroid": 0.008911
+    },
+    {
+      "index": 42,
+      "source_name": "AKWF_hvoice_0094.wav",
+      "centroid": 0.009017
+    },
+    {
+      "index": 43,
+      "source_name": "AKWF_hvoice_0004.wav",
+      "centroid": 0.009181
+    },
+    {
+      "index": 44,
+      "source_name": "AKWF_hvoice_0036.wav",
+      "centroid": 0.0092
+    },
+    {
+      "index": 45,
+      "source_name": "AKWF_hvoice_0072.wav",
+      "centroid": 0.009402
+    },
+    {
+      "index": 46,
+      "source_name": "AKWF_hvoice_0005.wav",
+      "centroid": 0.009575
+    },
+    {
+      "index": 47,
+      "source_name": "AKWF_hvoice_0092.wav",
+      "centroid": 0.009932
+    },
+    {
+      "index": 48,
+      "source_name": "AKWF_hvoice_0073.wav",
+      "centroid": 0.010073
+    },
+    {
+      "index": 49,
+      "source_name": "AKWF_hvoice_0091.wav",
+      "centroid": 0.010477
+    },
+    {
+      "index": 50,
+      "source_name": "AKWF_hvoice_0046.wav",
+      "centroid": 0.010687
+    },
+    {
+      "index": 51,
+      "source_name": "AKWF_hvoice_0034.wav",
+      "centroid": 0.0107
+    },
+    {
+      "index": 52,
+      "source_name": "AKWF_hvoice_0100.wav",
+      "centroid": 0.01092
+    },
+    {
+      "index": 53,
+      "source_name": "AKWF_hvoice_0102.wav",
+      "centroid": 0.010941
+    },
+    {
+      "index": 54,
+      "source_name": "AKWF_hvoice_0066.wav",
+      "centroid": 0.010966
+    },
+    {
+      "index": 55,
+      "source_name": "AKWF_hvoice_0101.wav",
+      "centroid": 0.01116
+    },
+    {
+      "index": 56,
+      "source_name": "AKWF_hvoice_0014.wav",
+      "centroid": 0.011213
+    },
+    {
+      "index": 57,
+      "source_name": "AKWF_hvoice_0064.wav",
+      "centroid": 0.011219
+    },
+    {
+      "index": 58,
+      "source_name": "AKWF_hvoice_0070.wav",
+      "centroid": 0.011248
+    },
+    {
+      "index": 59,
+      "source_name": "AKWF_hvoice_0086.wav",
+      "centroid": 0.011251
+    },
+    {
+      "index": 60,
+      "source_name": "AKWF_hvoice_0028.wav",
+      "centroid": 0.011386
+    },
+    {
+      "index": 61,
+      "source_name": "AKWF_hvoice_0075.wav",
+      "centroid": 0.011455
+    },
+    {
+      "index": 62,
+      "source_name": "AKWF_hvoice_0018.wav",
+      "centroid": 0.011554
+    },
+    {
+      "index": 63,
+      "source_name": "AKWF_hvoice_0079.wav",
+      "centroid": 0.012058
+    },
+    {
+      "index": 64,
+      "source_name": "AKWF_hvoice_0031.wav",
+      "centroid": 0.012555
+    },
+    {
+      "index": 65,
+      "source_name": "AKWF_hvoice_0065.wav",
+      "centroid": 0.013606
+    },
+    {
+      "index": 66,
+      "source_name": "AKWF_hvoice_0040.wav",
+      "centroid": 0.014261
+    },
+    {
+      "index": 67,
+      "source_name": "AKWF_hvoice_0032.wav",
+      "centroid": 0.014323
+    },
+    {
+      "index": 68,
+      "source_name": "AKWF_hvoice_0030.wav",
+      "centroid": 0.014434
+    },
+    {
+      "index": 69,
+      "source_name": "AKWF_hvoice_0022.wav",
+      "centroid": 0.014606
+    },
+    {
+      "index": 70,
+      "source_name": "AKWF_hvoice_0068.wav",
+      "centroid": 0.015517
+    },
+    {
+      "index": 71,
+      "source_name": "AKWF_hvoice_0015.wav",
+      "centroid": 0.016328
+    },
+    {
+      "index": 72,
+      "source_name": "AKWF_hvoice_0093.wav",
+      "centroid": 0.016399
+    },
+    {
+      "index": 73,
+      "source_name": "AKWF_hvoice_0071.wav",
+      "centroid": 0.016554
+    },
+    {
+      "index": 74,
+      "source_name": "AKWF_hvoice_0042.wav",
+      "centroid": 0.016751
+    },
+    {
+      "index": 75,
+      "source_name": "AKWF_hvoice_0052.wav",
+      "centroid": 0.018037
+    },
+    {
+      "index": 76,
+      "source_name": "AKWF_hvoice_0056.wav",
+      "centroid": 0.018267
+    },
+    {
+      "index": 77,
+      "source_name": "AKWF_hvoice_0049.wav",
+      "centroid": 0.019107
+    },
+    {
+      "index": 78,
+      "source_name": "AKWF_hvoice_0103.wav",
+      "centroid": 0.019557
+    },
+    {
+      "index": 79,
+      "source_name": "AKWF_hvoice_0043.wav",
+      "centroid": 0.019962
+    },
+    {
+      "index": 80,
+      "source_name": "AKWF_hvoice_0037.wav",
+      "centroid": 0.019974
+    },
+    {
+      "index": 81,
+      "source_name": "AKWF_hvoice_0047.wav",
+      "centroid": 0.020476
+    },
+    {
+      "index": 82,
+      "source_name": "AKWF_hvoice_0051.wav",
+      "centroid": 0.021237
+    },
+    {
+      "index": 83,
+      "source_name": "AKWF_hvoice_0019.wav",
+      "centroid": 0.022479
+    },
+    {
+      "index": 84,
+      "source_name": "AKWF_hvoice_0098.wav",
+      "centroid": 0.023865
+    },
+    {
+      "index": 85,
+      "source_name": "AKWF_hvoice_0021.wav",
+      "centroid": 0.024488
+    },
+    {
+      "index": 86,
+      "source_name": "AKWF_hvoice_0044.wav",
+      "centroid": 0.02449
+    },
+    {
+      "index": 87,
+      "source_name": "AKWF_hvoice_0045.wav",
+      "centroid": 0.025093
+    },
+    {
+      "index": 88,
+      "source_name": "AKWF_hvoice_0041.wav",
+      "centroid": 0.028597
+    },
+    {
+      "index": 89,
+      "source_name": "AKWF_hvoice_0038.wav",
+      "centroid": 0.029125
+    },
+    {
+      "index": 90,
+      "source_name": "AKWF_hvoice_0020.wav",
+      "centroid": 0.030518
+    },
+    {
+      "index": 91,
+      "source_name": "AKWF_hvoice_0050.wav",
+      "centroid": 0.034384
+    },
+    {
+      "index": 92,
+      "source_name": "AKWF_hvoice_0054.wav",
+      "centroid": 0.034787
+    },
+    {
+      "index": 93,
+      "source_name": "AKWF_hvoice_0060.wav",
+      "centroid": 0.037039
+    },
+    {
+      "index": 94,
+      "source_name": "AKWF_hvoice_0096.wav",
+      "centroid": 0.037537
+    },
+    {
+      "index": 95,
+      "source_name": "AKWF_hvoice_0057.wav",
+      "centroid": 0.038687
+    },
+    {
+      "index": 96,
+      "source_name": "AKWF_hvoice_0055.wav",
+      "centroid": 0.039859
+    },
+    {
+      "index": 97,
+      "source_name": "AKWF_hvoice_0063.wav",
+      "centroid": 0.039874
+    },
+    {
+      "index": 98,
+      "source_name": "AKWF_hvoice_0095.wav",
+      "centroid": 0.043462
+    },
+    {
+      "index": 99,
+      "source_name": "AKWF_hvoice_0059.wav",
+      "centroid": 0.044086
+    },
+    {
+      "index": 100,
+      "source_name": "AKWF_hvoice_0053.wav",
+      "centroid": 0.045654
+    },
+    {
+      "index": 101,
+      "source_name": "AKWF_hvoice_0058.wav",
+      "centroid": 0.055024
+    },
+    {
+      "index": 102,
+      "source_name": "AKWF_hvoice_0061.wav",
+      "centroid": 0.069895
+    },
+    {
+      "index": 103,
+      "source_name": "AKWF_hvoice_0062.wav",
+      "centroid": 0.076773
+    }
+  ]
+}

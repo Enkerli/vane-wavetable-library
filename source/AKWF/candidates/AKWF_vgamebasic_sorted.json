@@ -1,0 +1,328 @@
+{
+  "source": "upstream/AKWF/AKWF/AKWF_vgamebasic",
+  "frame_size": 2048,
+  "frame_count": 64,
+  "direction": "dark_to_bright",
+  "frames": [
+    {
+      "index": 0,
+      "source_name": "AKWF_vgsin_0015.wav",
+      "centroid": 0.010097
+    },
+    {
+      "index": 1,
+      "source_name": "AKWF_vgtri_0016.wav",
+      "centroid": 0.010144
+    },
+    {
+      "index": 2,
+      "source_name": "AKWF_vgtri_0015.wav",
+      "centroid": 0.010686
+    },
+    {
+      "index": 3,
+      "source_name": "AKWF_vgsin_0016.wav",
+      "centroid": 0.011091
+    },
+    {
+      "index": 4,
+      "source_name": "AKWF_vgtri_0014.wav",
+      "centroid": 0.012362
+    },
+    {
+      "index": 5,
+      "source_name": "AKWF_vgsin_0014.wav",
+      "centroid": 0.012988
+    },
+    {
+      "index": 6,
+      "source_name": "AKWF_vgtri_0013.wav",
+      "centroid": 0.014575
+    },
+    {
+      "index": 7,
+      "source_name": "AKWF_vgsin_0012.wav",
+      "centroid": 0.01467
+    },
+    {
+      "index": 8,
+      "source_name": "AKWF_vgsin_0013.wav",
+      "centroid": 0.014782
+    },
+    {
+      "index": 9,
+      "source_name": "AKWF_vgtri_0012.wav",
+      "centroid": 0.015298
+    },
+    {
+      "index": 10,
+      "source_name": "AKWF_vgtri_0011.wav",
+      "centroid": 0.016739
+    },
+    {
+      "index": 11,
+      "source_name": "AKWF_vgtri_0010.wav",
+      "centroid": 0.017762
+    },
+    {
+      "index": 12,
+      "source_name": "AKWF_vgsin_0011.wav",
+      "centroid": 0.017803
+    },
+    {
+      "index": 13,
+      "source_name": "AKWF_vgsin_0010.wav",
+      "centroid": 0.01871
+    },
+    {
+      "index": 14,
+      "source_name": "AKWF_vgsin_0008.wav",
+      "centroid": 0.019575
+    },
+    {
+      "index": 15,
+      "source_name": "AKWF_vgtri_0009.wav",
+      "centroid": 0.019619
+    },
+    {
+      "index": 16,
+      "source_name": "AKWF_vgtri_0008.wav",
+      "centroid": 0.019738
+    },
+    {
+      "index": 17,
+      "source_name": "AKWF_vgsin_0009.wav",
+      "centroid": 0.020016
+    },
+    {
+      "index": 18,
+      "source_name": "AKWF_vgtri_0007.wav",
+      "centroid": 0.020945
+    },
+    {
+      "index": 19,
+      "source_name": "AKWF_vgsin_0007.wav",
+      "centroid": 0.021893
+    },
+    {
+      "index": 20,
+      "source_name": "AKWF_vgtri_0006.wav",
+      "centroid": 0.021928
+    },
+    {
+      "index": 21,
+      "source_name": "AKWF_vgtri_0005.wav",
+      "centroid": 0.023055
+    },
+    {
+      "index": 22,
+      "source_name": "AKWF_vgsin_0006.wav",
+      "centroid": 0.023128
+    },
+    {
+      "index": 23,
+      "source_name": "AKWF_vgsin_0005.wav",
+      "centroid": 0.023992
+    },
+    {
+      "index": 24,
+      "source_name": "AKWF_vgsin_0001.wav",
+      "centroid": 0.024556
+    },
+    {
+      "index": 25,
+      "source_name": "AKWF_vgtri_0004.wav",
+      "centroid": 0.024877
+    },
+    {
+      "index": 26,
+      "source_name": "AKWF_vgtri_0003.wav",
+      "centroid": 0.025282
+    },
+    {
+      "index": 27,
+      "source_name": "AKWF_vgtri_0002.wav",
+      "centroid": 0.02535
+    },
+    {
+      "index": 28,
+      "source_name": "AKWF_vgtri_0001.wav",
+      "centroid": 0.025411
+    },
+    {
+      "index": 29,
+      "source_name": "AKWF_vgsin_0003.wav",
+      "centroid": 0.025469
+    },
+    {
+      "index": 30,
+      "source_name": "AKWF_vgsin_0004.wav",
+      "centroid": 0.025579
+    },
+    {
+      "index": 31,
+      "source_name": "AKWF_vgsin_0002.wav",
+      "centroid": 0.026203
+    },
+    {
+      "index": 32,
+      "source_name": "AKWF_vgsqu_0011.wav",
+      "centroid": 0.029988
+    },
+    {
+      "index": 33,
+      "source_name": "AKWF_vgsqu_0012.wav",
+      "centroid": 0.031208
+    },
+    {
+      "index": 34,
+      "source_name": "AKWF_vgsaw_0016.wav",
+      "centroid": 0.031245
+    },
+    {
+      "index": 35,
+      "source_name": "AKWF_vgsaw_0015.wav",
+      "centroid": 0.033533
+    },
+    {
+      "index": 36,
+      "source_name": "AKWF_vgsaw_0014.wav",
+      "centroid": 0.033899
+    },
+    {
+      "index": 37,
+      "source_name": "AKWF_vgsaw_0011.wav",
+      "centroid": 0.034784
+    },
+    {
+      "index": 38,
+      "source_name": "AKWF_vgsaw_0012.wav",
+      "centroid": 0.035891
+    },
+    {
+      "index": 39,
+      "source_name": "AKWF_vgsaw_0002.wav",
+      "centroid": 0.036273
+    },
+    {
+      "index": 40,
+      "source_name": "AKWF_vgsqu_0004.wav",
+      "centroid": 0.036861
+    },
+    {
+      "index": 41,
+      "source_name": "AKWF_vgsqu_0013.wav",
+      "centroid": 0.03739
+    },
+    {
+      "index": 42,
+      "source_name": "AKWF_vgsqu_0009.wav",
+      "centroid": 0.037414
+    },
+    {
+      "index": 43,
+      "source_name": "AKWF_vgsqu_0008.wav",
+      "centroid": 0.03744
+    },
+    {
+      "index": 44,
+      "source_name": "AKWF_vgsqu_0003.wav",
+      "centroid": 0.037613
+    },
+    {
+      "index": 45,
+      "source_name": "AKWF_vgsqu_0002.wav",
+      "centroid": 0.037627
+    },
+    {
+      "index": 46,
+      "source_name": "AKWF_vgsqu_0005.wav",
+      "centroid": 0.037763
+    },
+    {
+      "index": 47,
+      "source_name": "AKWF_vgsqu_0007.wav",
+      "centroid": 0.038009
+    },
+    {
+      "index": 48,
+      "source_name": "AKWF_vgsqu_0001.wav",
+      "centroid": 0.038171
+    },
+    {
+      "index": 49,
+      "source_name": "AKWF_vgsaw_0010.wav",
+      "centroid": 0.038771
+    },
+    {
+      "index": 50,
+      "source_name": "AKWF_vgsaw_0006.wav",
+      "centroid": 0.038835
+    },
+    {
+      "index": 51,
+      "source_name": "AKWF_vgsqu_0014.wav",
+      "centroid": 0.038901
+    },
+    {
+      "index": 52,
+      "source_name": "AKWF_vgsqu_0010.wav",
+      "centroid": 0.039518
+    },
+    {
+      "index": 53,
+      "source_name": "AKWF_vgsaw_0004.wav",
+      "centroid": 0.039611
+    },
+    {
+      "index": 54,
+      "source_name": "AKWF_vgsqu_0006.wav",
+      "centroid": 0.039993
+    },
+    {
+      "index": 55,
+      "source_name": "AKWF_vgsaw_0003.wav",
+      "centroid": 0.040177
+    },
+    {
+      "index": 56,
+      "source_name": "AKWF_vgsaw_0001.wav",
+      "centroid": 0.040213
+    },
+    {
+      "index": 57,
+      "source_name": "AKWF_vgsaw_0008.wav",
+      "centroid": 0.040379
+    },
+    {
+      "index": 58,
+      "source_name": "AKWF_vgsaw_0007.wav",
+      "centroid": 0.040804
+    },
+    {
+      "index": 59,
+      "source_name": "AKWF_vgsqu_0016.wav",
+      "centroid": 0.040922
+    },
+    {
+      "index": 60,
+      "source_name": "AKWF_vgsaw_0013.wav",
+      "centroid": 0.041049
+    },
+    {
+      "index": 61,
+      "source_name": "AKWF_vgsaw_0005.wav",
+      "centroid": 0.041191
+    },
+    {
+      "index": 62,
+      "source_name": "AKWF_vgsaw_0009.wav",
+      "centroid": 0.04121
+    },
+    {
+      "index": 63,
+      "source_name": "AKWF_vgsqu_0015.wav",
+      "centroid": 0.041851
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "source": "upstream/AKWF/AKWF/AKWF_flute",
+  "frame_size": 2048,
+  "frame_count": 17,
+  "direction": "dark_to_bright",
+  "frames": [
+    {
+      "index": 0,
+      "source_name": "AKWF_flute_0011.wav",
+      "centroid": 0.001627
+    },
+    {
+      "index": 1,
+      "source_name": "AKWF_flute_0008.wav",
+      "centroid": 0.00164
+    },
+    {
+      "index": 2,
+      "source_name": "AKWF_flute_0010.wav",
+      "centroid": 0.001646
+    },
+    {
+      "index": 3,
+      "source_name": "AKWF_flute_0014.wav",
+      "centroid": 0.001674
+    },
+    {
+      "index": 4,
+      "source_name": "AKWF_flute_0013.wav",
+      "centroid": 0.001705
+    },
+    {
+      "index": 5,
+      "source_name": "AKWF_flute_0012.wav",
+      "centroid": 0.001767
+    },
+    {
+      "index": 6,
+      "source_name": "AKWF_flute_0009.wav",
+      "centroid": 0.001823
+    },
+    {
+      "index": 7,
+      "source_name": "AKWF_flute_0007.wav",
+      "centroid": 0.002159
+    },
+    {
+      "index": 8,
+      "source_name": "AKWF_flute_0006.wav",
+      "centroid": 0.002451
+    },
+    {
+      "index": 9,
+      "source_name": "AKWF_flute_0015.wav",
+      "centroid": 0.002908
+    },
+    {
+      "index": 10,
+      "source_name": "AKWF_flute_0016.wav",
+      "centroid": 0.002925
+    },
+    {
+      "index": 11,
+      "source_name": "AKWF_flute_0002.wav",
+      "centroid": 0.003018
+    },
+    {
+      "index": 12,
+      "source_name": "AKWF_flute_0001.wav",
+      "centroid": 0.00314
+    },
+    {
+      "index": 13,
+      "source_name": "AKWF_flute_0017.wav",
+      "centroid": 0.003143
+    },
+    {
+      "index": 14,
+      "source_name": "AKWF_flute_0005.wav",
+      "centroid": 0.003235
+    },
+    {
+      "index": 15,
+      "source_name": "AKWF_flute_0004.wav",
+      "centroid": 0.003878
+    },
+    {
+      "index": 16,
+      "source_name": "AKWF_flute_0003.wav",
+      "centroid": 0.004696
+    }
+  ]
+}

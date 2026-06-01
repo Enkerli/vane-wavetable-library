@@ -1,0 +1,138 @@
+{
+  "source": "upstream/AKWF/AKWF/AKWF_altosax",
+  "frame_size": 2048,
+  "frame_count": 26,
+  "direction": "dark_to_bright",
+  "frames": [
+    {
+      "index": 0,
+      "source_name": "AKWF_altosax_0002.wav",
+      "centroid": 0.002369
+    },
+    {
+      "index": 1,
+      "source_name": "AKWF_altosax_0016.wav",
+      "centroid": 0.002582
+    },
+    {
+      "index": 2,
+      "source_name": "AKWF_altosax_0003.wav",
+      "centroid": 0.002744
+    },
+    {
+      "index": 3,
+      "source_name": "AKWF_altosax_0023.wav",
+      "centroid": 0.002896
+    },
+    {
+      "index": 4,
+      "source_name": "AKWF_altosax_0015.wav",
+      "centroid": 0.002957
+    },
+    {
+      "index": 5,
+      "source_name": "AKWF_altosax_0020.wav",
+      "centroid": 0.00302
+    },
+    {
+      "index": 6,
+      "source_name": "AKWF_altosax_0021.wav",
+      "centroid": 0.003041
+    },
+    {
+      "index": 7,
+      "source_name": "AKWF_altosax_0022.wav",
+      "centroid": 0.003092
+    },
+    {
+      "index": 8,
+      "source_name": "AKWF_altosax_0004.wav",
+      "centroid": 0.003125
+    },
+    {
+      "index": 9,
+      "source_name": "AKWF_altosax_0024.wav",
+      "centroid": 0.003261
+    },
+    {
+      "index": 10,
+      "source_name": "AKWF_altosax_0014.wav",
+      "centroid": 0.003468
+    },
+    {
+      "index": 11,
+      "source_name": "AKWF_altosax_0013.wav",
+      "centroid": 0.003992
+    },
+    {
+      "index": 12,
+      "source_name": "AKWF_altosax_0026.wav",
+      "centroid": 0.004048
+    },
+    {
+      "index": 13,
+      "source_name": "AKWF_altosax_0011.wav",
+      "centroid": 0.005024
+    },
+    {
+      "index": 14,
+      "source_name": "AKWF_altosax_0025.wav",
+      "centroid": 0.005436
+    },
+    {
+      "index": 15,
+      "source_name": "AKWF_altosax_0008.wav",
+      "centroid": 0.005724
+    },
+    {
+      "index": 16,
+      "source_name": "AKWF_altosax_0009.wav",
+      "centroid": 0.005741
+    },
+    {
+      "index": 17,
+      "source_name": "AKWF_altosax_0007.wav",
+      "centroid": 0.00577
+    },
+    {
+      "index": 18,
+      "source_name": "AKWF_altosax_0001.wav",
+      "centroid": 0.005787
+    },
+    {
+      "index": 19,
+      "source_name": "AKWF_altosax_0006.wav",
+      "centroid": 0.005909
+    },
+    {
+      "index": 20,
+      "source_name": "AKWF_altosax_0010.wav",
+      "centroid": 0.00595
+    },
+    {
+      "index": 21,
+      "source_name": "AKWF_altosax_0012.wav",
+      "centroid": 0.006003
+    },
+    {
+      "index": 22,
+      "source_name": "AKWF_altosax_0005.wav",
+      "centroid": 0.006239
+    },
+    {
+      "index": 23,
+      "source_name": "AKWF_altosax_0019.wav",
+      "centroid": 0.007174
+    },
+    {
+      "index": 24,
+      "source_name": "AKWF_altosax_0017.wav",
+      "centroid": 0.010276
+    },
+    {
+      "index": 25,
+      "source_name": "AKWF_altosax_0018.wav",
+      "centroid": 0.019259
+    }
+  ]
+}

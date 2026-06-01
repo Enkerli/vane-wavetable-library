@@ -1,0 +1,508 @@
+{
+  "source": "upstream/AKWF/AKWF/AKWF_0004",
+  "frame_size": 2048,
+  "frame_count": 100,
+  "direction": "dark_to_bright",
+  "frames": [
+    {
+      "index": 0,
+      "source_name": "AKWF_0394.wav",
+      "centroid": 0.001471
+    },
+    {
+      "index": 1,
+      "source_name": "AKWF_0389.wav",
+      "centroid": 0.001481
+    },
+    {
+      "index": 2,
+      "source_name": "AKWF_0396.wav",
+      "centroid": 0.001582
+    },
+    {
+      "index": 3,
+      "source_name": "AKWF_0393.wav",
+      "centroid": 0.001613
+    },
+    {
+      "index": 4,
+      "source_name": "AKWF_0395.wav",
+      "centroid": 0.001692
+    },
+    {
+      "index": 5,
+      "source_name": "AKWF_0319.wav",
+      "centroid": 0.001924
+    },
+    {
+      "index": 6,
+      "source_name": "AKWF_0330.wav",
+      "centroid": 0.001952
+    },
+    {
+      "index": 7,
+      "source_name": "AKWF_0384.wav",
+      "centroid": 0.002073
+    },
+    {
+      "index": 8,
+      "source_name": "AKWF_0398.wav",
+      "centroid": 0.002547
+    },
+    {
+      "index": 9,
+      "source_name": "AKWF_0350.wav",
+      "centroid": 0.002825
+    },
+    {
+      "index": 10,
+      "source_name": "AKWF_0383.wav",
+      "centroid": 0.00283
+    },
+    {
+      "index": 11,
+      "source_name": "AKWF_0360.wav",
+      "centroid": 0.003487
+    },
+    {
+      "index": 12,
+      "source_name": "AKWF_0321.wav",
+      "centroid": 0.003552
+    },
+    {
+      "index": 13,
+      "source_name": "AKWF_0340.wav",
+      "centroid": 0.003676
+    },
+    {
+      "index": 14,
+      "source_name": "AKWF_0320.wav",
+      "centroid": 0.004046
+    },
+    {
+      "index": 15,
+      "source_name": "AKWF_0338.wav",
+      "centroid": 0.004048
+    },
+    {
+      "index": 16,
+      "source_name": "AKWF_0336.wav",
+      "centroid": 0.004069
+    },
+    {
+      "index": 17,
+      "source_name": "AKWF_0335.wav",
+      "centroid": 0.004166
+    },
+    {
+      "index": 18,
+      "source_name": "AKWF_0359.wav",
+      "centroid": 0.004292
+    },
+    {
+      "index": 19,
+      "source_name": "AKWF_0362.wav",
+      "centroid": 0.004512
+    },
+    {
+      "index": 20,
+      "source_name": "AKWF_0324.wav",
+      "centroid": 0.004579
+    },
+    {
+      "index": 21,
+      "source_name": "AKWF_0322.wav",
+      "centroid": 0.004654
+    },
+    {
+      "index": 22,
+      "source_name": "AKWF_0341.wav",
+      "centroid": 0.004703
+    },
+    {
+      "index": 23,
+      "source_name": "AKWF_0318.wav",
+      "centroid": 0.004798
+    },
+    {
+      "index": 24,
+      "source_name": "AKWF_0339.wav",
+      "centroid": 0.004878
+    },
+    {
+      "index": 25,
+      "source_name": "AKWF_0371.wav",
+      "centroid": 0.004898
+    },
+    {
+      "index": 26,
+      "source_name": "AKWF_0352.wav",
+      "centroid": 0.005048
+    },
+    {
+      "index": 27,
+      "source_name": "AKWF_0308.wav",
+      "centroid": 0.005257
+    },
+    {
+      "index": 28,
+      "source_name": "AKWF_0337.wav",
+      "centroid": 0.005322
+    },
+    {
+      "index": 29,
+      "source_name": "AKWF_0366.wav",
+      "centroid": 0.005329
+    },
+    {
+      "index": 30,
+      "source_name": "AKWF_0348.wav",
+      "centroid": 0.006904
+    },
+    {
+      "index": 31,
+      "source_name": "AKWF_0349.wav",
+      "centroid": 0.007026
+    },
+    {
+      "index": 32,
+      "source_name": "AKWF_0313.wav",
+      "centroid": 0.007341
+    },
+    {
+      "index": 33,
+      "source_name": "AKWF_0301.wav",
+      "centroid": 0.007458
+    },
+    {
+      "index": 34,
+      "source_name": "AKWF_0304.wav",
+      "centroid": 0.007732
+    },
+    {
+      "index": 35,
+      "source_name": "AKWF_0305.wav",
+      "centroid": 0.008072
+    },
+    {
+      "index": 36,
+      "source_name": "AKWF_0328.wav",
+      "centroid": 0.008172
+    },
+    {
+      "index": 37,
+      "source_name": "AKWF_0326.wav",
+      "centroid": 0.008791
+    },
+    {
+      "index": 38,
+      "source_name": "AKWF_0307.wav",
+      "centroid": 0.008887
+    },
+    {
+      "index": 39,
+      "source_name": "AKWF_0327.wav",
+      "centroid": 0.009152
+    },
+    {
+      "index": 40,
+      "source_name": "AKWF_0333.wav",
+      "centroid": 0.009982
+    },
+    {
+      "index": 41,
+      "source_name": "AKWF_0372.wav",
+      "centroid": 0.010047
+    },
+    {
+      "index": 42,
+      "source_name": "AKWF_0334.wav",
+      "centroid": 0.010113
+    },
+    {
+      "index": 43,
+      "source_name": "AKWF_0374.wav",
+      "centroid": 0.010336
+    },
+    {
+      "index": 44,
+      "source_name": "AKWF_0312.wav",
+      "centroid": 0.010345
+    },
+    {
+      "index": 45,
+      "source_name": "AKWF_0370.wav",
+      "centroid": 0.01079
+    },
+    {
+      "index": 46,
+      "source_name": "AKWF_0373.wav",
+      "centroid": 0.010897
+    },
+    {
+      "index": 47,
+      "source_name": "AKWF_0303.wav",
+      "centroid": 0.011319
+    },
+    {
+      "index": 48,
+      "source_name": "AKWF_0332.wav",
+      "centroid": 0.011891
+    },
+    {
+      "index": 49,
+      "source_name": "AKWF_0342.wav",
+      "centroid": 0.01228
+    },
+    {
+      "index": 50,
+      "source_name": "AKWF_0323.wav",
+      "centroid": 0.012499
+    },
+    {
+      "index": 51,
+      "source_name": "AKWF_0369.wav",
+      "centroid": 0.01283
+    },
+    {
+      "index": 52,
+      "source_name": "AKWF_0357.wav",
+      "centroid": 0.01318
+    },
+    {
+      "index": 53,
+      "source_name": "AKWF_0364.wav",
+      "centroid": 0.015666
+    },
+    {
+      "index": 54,
+      "source_name": "AKWF_0306.wav",
+      "centroid": 0.018658
+    },
+    {
+      "index": 55,
+      "source_name": "AKWF_0385.wav",
+      "centroid": 0.019394
+    },
+    {
+      "index": 56,
+      "source_name": "AKWF_0365.wav",
+      "centroid": 0.019834
+    },
+    {
+      "index": 57,
+      "source_name": "AKWF_0399.wav",
+      "centroid": 0.020507
+    },
+    {
+      "index": 58,
+      "source_name": "AKWF_0331.wav",
+      "centroid": 0.022589
+    },
+    {
+      "index": 59,
+      "source_name": "AKWF_0397.wav",
+      "centroid": 0.025522
+    },
+    {
+      "index": 60,
+      "source_name": "AKWF_0351.wav",
+      "centroid": 0.028451
+    },
+    {
+      "index": 61,
+      "source_name": "AKWF_0329.wav",
+      "centroid": 0.029266
+    },
+    {
+      "index": 62,
+      "source_name": "AKWF_0302.wav",
+      "centroid": 0.029621
+    },
+    {
+      "index": 63,
+      "source_name": "AKWF_0347.wav",
+      "centroid": 0.029708
+    },
+    {
+      "index": 64,
+      "source_name": "AKWF_0391.wav",
+      "centroid": 0.031006
+    },
+    {
+      "index": 65,
+      "source_name": "AKWF_0400.wav",
+      "centroid": 0.032758
+    },
+    {
+      "index": 66,
+      "source_name": "AKWF_0346.wav",
+      "centroid": 0.033283
+    },
+    {
+      "index": 67,
+      "source_name": "AKWF_0390.wav",
+      "centroid": 0.039076
+    },
+    {
+      "index": 68,
+      "source_name": "AKWF_0316.wav",
+      "centroid": 0.039869
+    },
+    {
+      "index": 69,
+      "source_name": "AKWF_0363.wav",
+      "centroid": 0.039891
+    },
+    {
+      "index": 70,
+      "source_name": "AKWF_0376.wav",
+      "centroid": 0.043113
+    },
+    {
+      "index": 71,
+      "source_name": "AKWF_0392.wav",
+      "centroid": 0.045761
+    },
+    {
+      "index": 72,
+      "source_name": "AKWF_0315.wav",
+      "centroid": 0.049445
+    },
+    {
+      "index": 73,
+      "source_name": "AKWF_0325.wav",
+      "centroid": 0.050214
+    },
+    {
+      "index": 74,
+      "source_name": "AKWF_0356.wav",
+      "centroid": 0.050836
+    },
+    {
+      "index": 75,
+      "source_name": "AKWF_0317.wav",
+      "centroid": 0.052374
+    },
+    {
+      "index": 76,
+      "source_name": "AKWF_0354.wav",
+      "centroid": 0.054652
+    },
+    {
+      "index": 77,
+      "source_name": "AKWF_0377.wav",
+      "centroid": 0.056639
+    },
+    {
+      "index": 78,
+      "source_name": "AKWF_0375.wav",
+      "centroid": 0.058424
+    },
+    {
+      "index": 79,
+      "source_name": "AKWF_0386.wav",
+      "centroid": 0.060225
+    },
+    {
+      "index": 80,
+      "source_name": "AKWF_0378.wav",
+      "centroid": 0.06144
+    },
+    {
+      "index": 81,
+      "source_name": "AKWF_0367.wav",
+      "centroid": 0.063644
+    },
+    {
+      "index": 82,
+      "source_name": "AKWF_0382.wav",
+      "centroid": 0.064106
+    },
+    {
+      "index": 83,
+      "source_name": "AKWF_0381.wav",
+      "centroid": 0.065674
+    },
+    {
+      "index": 84,
+      "source_name": "AKWF_0343.wav",
+      "centroid": 0.066354
+    },
+    {
+      "index": 85,
+      "source_name": "AKWF_0353.wav",
+      "centroid": 0.066696
+    },
+    {
+      "index": 86,
+      "source_name": "AKWF_0368.wav",
+      "centroid": 0.066962
+    },
+    {
+      "index": 87,
+      "source_name": "AKWF_0344.wav",
+      "centroid": 0.068028
+    },
+    {
+      "index": 88,
+      "source_name": "AKWF_0361.wav",
+      "centroid": 0.068918
+    },
+    {
+      "index": 89,
+      "source_name": "AKWF_0345.wav",
+      "centroid": 0.069986
+    },
+    {
+      "index": 90,
+      "source_name": "AKWF_0309.wav",
+      "centroid": 0.073112
+    },
+    {
+      "index": 91,
+      "source_name": "AKWF_0379.wav",
+      "centroid": 0.076689
+    },
+    {
+      "index": 92,
+      "source_name": "AKWF_0380.wav",
+      "centroid": 0.082228
+    },
+    {
+      "index": 93,
+      "source_name": "AKWF_0358.wav",
+      "centroid": 0.085535
+    },
+    {
+      "index": 94,
+      "source_name": "AKWF_0314.wav",
+      "centroid": 0.094771
+    },
+    {
+      "index": 95,
+      "source_name": "AKWF_0311.wav",
+      "centroid": 0.09647
+    },
+    {
+      "index": 96,
+      "source_name": "AKWF_0387.wav",
+      "centroid": 0.100064
+    },
+    {
+      "index": 97,
+      "source_name": "AKWF_0355.wav",
+      "centroid": 0.101455
+    },
+    {
+      "index": 98,
+      "source_name": "AKWF_0388.wav",
+      "centroid": 0.12218
+    },
+    {
+      "index": 99,
+      "source_name": "AKWF_0310.wav",
+      "centroid": 0.152678
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "source": "upstream/AKWF/AKWF/AKWF_clarinett",
+  "frame_size": 2048,
+  "frame_count": 25,
+  "direction": "dark_to_bright",
+  "frames": [
+    {
+      "index": 0,
+      "source_name": "AKWF_clarinett_0010.wav",
+      "centroid": 0.002096
+    },
+    {
+      "index": 1,
+      "source_name": "AKWF_clarinett_0011.wav",
+      "centroid": 0.002308
+    },
+    {
+      "index": 2,
+      "source_name": "AKWF_clarinett_0009.wav",
+      "centroid": 0.002321
+    },
+    {
+      "index": 3,
+      "source_name": "AKWF_clarinett_0008.wav",
+      "centroid": 0.002341
+    },
+    {
+      "index": 4,
+      "source_name": "AKWF_clarinett_0007.wav",
+      "centroid": 0.00239
+    },
+    {
+      "index": 5,
+      "source_name": "AKWF_clarinett_0013.wav",
+      "centroid": 0.002436
+    },
+    {
+      "index": 6,
+      "source_name": "AKWF_clarinett_0006.wav",
+      "centroid": 0.002455
+    },
+    {
+      "index": 7,
+      "source_name": "AKWF_clarinett_0018.wav",
+      "centroid": 0.002456
+    },
+    {
+      "index": 8,
+      "source_name": "AKWF_clarinett_0019.wav",
+      "centroid": 0.00276
+    },
+    {
+      "index": 9,
+      "source_name": "AKWF_clarinett_0017.wav",
+      "centroid": 0.002961
+    },
+    {
+      "index": 10,
+      "source_name": "AKWF_clarinett_0014.wav",
+      "centroid": 0.003436
+    },
+    {
+      "index": 11,
+      "source_name": "AKWF_clarinett_0015.wav",
+      "centroid": 0.003837
+    },
+    {
+      "index": 12,
+      "source_name": "AKWF_clarinett_0025.wav",
+      "centroid": 0.004038
+    },
+    {
+      "index": 13,
+      "source_name": "AKWF_clarinett_0005.wav",
+      "centroid": 0.004056
+    },
+    {
+      "index": 14,
+      "source_name": "AKWF_clarinett_0003.wav",
+      "centroid": 0.004204
+    },
+    {
+      "index": 15,
+      "source_name": "AKWF_clarinett_0004.wav",
+      "centroid": 0.004316
+    },
+    {
+      "index": 16,
+      "source_name": "AKWF_clarinett_0016.wav",
+      "centroid": 0.004503
+    },
+    {
+      "index": 17,
+      "source_name": "AKWF_clarinett_0022.wav",
+      "centroid": 0.004576
+    },
+    {
+      "index": 18,
+      "source_name": "AKWF_clarinett_0012.wav",
+      "centroid": 0.004835
+    },
+    {
+      "index": 19,
+      "source_name": "AKWF_clarinett_0021.wav",
+      "centroid": 0.004846
+    },
+    {
+      "index": 20,
+      "source_name": "AKWF_clarinett_0002.wav",
+      "centroid": 0.005065
+    },
+    {
+      "index": 21,
+      "source_name": "AKWF_clarinett_0023.wav",
+      "centroid": 0.005101
+    },
+    {
+      "index": 22,
+      "source_name": "AKWF_clarinett_0024.wav",
+      "centroid": 0.005259
+    },
+    {
+      "index": 23,
+      "source_name": "AKWF_clarinett_0001.wav",
+      "centroid": 0.005573
+    },
+    {
+      "index": 24,
+      "source_name": "AKWF_clarinett_0020.wav",
+      "centroid": 0.005832
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "source": "upstream/AKWF/AKWF/AKWF_pluckalgo",
+  "frame_size": 2048,
+  "frame_count": 9,
+  "direction": "dark_to_bright",
+  "frames": [
+    {
+      "index": 0,
+      "source_name": "AKWF_pluckalgo_0006.wav",
+      "centroid": 0.001442
+    },
+    {
+      "index": 1,
+      "source_name": "AKWF_pluckalgo_0002.wav",
+      "centroid": 0.001625
+    },
+    {
+      "index": 2,
+      "source_name": "AKWF_pluckalgo_0009.wav",
+      "centroid": 0.001728
+    },
+    {
+      "index": 3,
+      "source_name": "AKWF_pluckalgo_0003.wav",
+      "centroid": 0.00174
+    },
+    {
+      "index": 4,
+      "source_name": "AKWF_pluckalgo_0005.wav",
+      "centroid": 0.002192
+    },
+    {
+      "index": 5,
+      "source_name": "AKWF_pluckalgo_0007.wav",
+      "centroid": 0.003831
+    },
+    {
+      "index": 6,
+      "source_name": "AKWF_pluckalgo_0008.wav",
+      "centroid": 0.005155
+    },
+    {
+      "index": 7,
+      "source_name": "AKWF_pluckalgo_0001.wav",
+      "centroid": 0.006201
+    },
+    {
+      "index": 8,
+      "source_name": "AKWF_pluckalgo_0004.wav",
+      "centroid": 0.008128
+    }
+  ]
+}

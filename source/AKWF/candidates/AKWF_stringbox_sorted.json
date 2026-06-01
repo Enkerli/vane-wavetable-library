@@ -1,0 +1,38 @@
+{
+  "source": "upstream/AKWF/AKWF/AKWF_stringbox",
+  "frame_size": 2048,
+  "frame_count": 6,
+  "direction": "dark_to_bright",
+  "frames": [
+    {
+      "index": 0,
+      "source_name": "AKWF_cheeze_0001.wav",
+      "centroid": 0.001596
+    },
+    {
+      "index": 1,
+      "source_name": "AKWF_cheeze_0002.wav",
+      "centroid": 0.00177
+    },
+    {
+      "index": 2,
+      "source_name": "AKWF_cheeze_0003.wav",
+      "centroid": 0.00212
+    },
+    {
+      "index": 3,
+      "source_name": "AKWF_cheeze_0004.wav",
+      "centroid": 0.002804
+    },
+    {
+      "index": 4,
+      "source_name": "AKWF_cheeze_0005.wav",
+      "centroid": 0.004622
+    },
+    {
+      "index": 5,
+      "source_name": "AKWF_cheeze_0006.wav",
+      "centroid": 0.006802
+    }
+  ]
+}

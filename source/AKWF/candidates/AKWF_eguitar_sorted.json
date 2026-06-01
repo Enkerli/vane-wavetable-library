@@ -1,0 +1,118 @@
+{
+  "source": "upstream/AKWF/AKWF/AKWF_eguitar",
+  "frame_size": 2048,
+  "frame_count": 22,
+  "direction": "dark_to_bright",
+  "frames": [
+    {
+      "index": 0,
+      "source_name": "AKWF_eguitar_0010.wav",
+      "centroid": 0.004761
+    },
+    {
+      "index": 1,
+      "source_name": "AKWF_eguitar_0003.wav",
+      "centroid": 0.006714
+    },
+    {
+      "index": 2,
+      "source_name": "AKWF_eguitar_0009.wav",
+      "centroid": 0.006866
+    },
+    {
+      "index": 3,
+      "source_name": "AKWF_eguitar_0002.wav",
+      "centroid": 0.007284
+    },
+    {
+      "index": 4,
+      "source_name": "AKWF_eguitar_0012.wav",
+      "centroid": 0.007356
+    },
+    {
+      "index": 5,
+      "source_name": "AKWF_eguitar_0021.wav",
+      "centroid": 0.008346
+    },
+    {
+      "index": 6,
+      "source_name": "AKWF_eguitar_0007.wav",
+      "centroid": 0.009829
+    },
+    {
+      "index": 7,
+      "source_name": "AKWF_eguitar_0006.wav",
+      "centroid": 0.011297
+    },
+    {
+      "index": 8,
+      "source_name": "AKWF_eguitar_0008.wav",
+      "centroid": 0.012104
+    },
+    {
+      "index": 9,
+      "source_name": "AKWF_eguitar_0022.wav",
+      "centroid": 0.012165
+    },
+    {
+      "index": 10,
+      "source_name": "AKWF_eguitar_0019.wav",
+      "centroid": 0.012563
+    },
+    {
+      "index": 11,
+      "source_name": "AKWF_eguitar_0005.wav",
+      "centroid": 0.013106
+    },
+    {
+      "index": 12,
+      "source_name": "AKWF_eguitar_0013.wav",
+      "centroid": 0.013272
+    },
+    {
+      "index": 13,
+      "source_name": "AKWF_eguitar_0016.wav",
+      "centroid": 0.016773
+    },
+    {
+      "index": 14,
+      "source_name": "AKWF_eguitar_0015.wav",
+      "centroid": 0.019566
+    },
+    {
+      "index": 15,
+      "source_name": "AKWF_eguitar_0004.wav",
+      "centroid": 0.020616
+    },
+    {
+      "index": 16,
+      "source_name": "AKWF_eguitar_0020.wav",
+      "centroid": 0.021108
+    },
+    {
+      "index": 17,
+      "source_name": "AKWF_eguitar_0018.wav",
+      "centroid": 0.021787
+    },
+    {
+      "index": 18,
+      "source_name": "AKWF_eguitar_0017.wav",
+      "centroid": 0.027306
+    },
+    {
+      "index": 19,
+      "source_name": "AKWF_eguitar_0011.wav",
+      "centroid": 0.03163
+    },
+    {
+      "index": 20,
+      "source_name": "AKWF_eguitar_0001.wav",
+      "centroid": 0.033824
+    },
+    {
+      "index": 21,
+      "source_name": "AKWF_eguitar_0014.wav",
+      "centroid": 0.03491
+    }
+  ]
+}

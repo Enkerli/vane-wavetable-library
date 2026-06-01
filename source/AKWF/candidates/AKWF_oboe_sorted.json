@@ -1,0 +1,73 @@
+{
+  "source": "upstream/AKWF/AKWF/AKWF_oboe",
+  "frame_size": 2048,
+  "frame_count": 13,
+  "direction": "dark_to_bright",
+  "frames": [
+    {
+      "index": 0,
+      "source_name": "AKWF_oboe_0009.wav",
+      "centroid": 0.0017
+    },
+    {
+      "index": 1,
+      "source_name": "AKWF_oboe_0008.wav",
+      "centroid": 0.001832
+    },
+    {
+      "index": 2,
+      "source_name": "AKWF_oboe_0007.wav",
+      "centroid": 0.001982
+    },
+    {
+      "index": 3,
+      "source_name": "AKWF_oboe_0001.wav",
+      "centroid": 0.002115
+    },
+    {
+      "index": 4,
+      "source_name": "AKWF_oboe_0005.wav",
+      "centroid": 0.002504
+    },
+    {
+      "index": 5,
+      "source_name": "AKWF_oboe_0006.wav",
+      "centroid": 0.002512
+    },
+    {
+      "index": 6,
+      "source_name": "AKWF_oboe_0004.wav",
+      "centroid": 0.003022
+    },
+    {
+      "index": 7,
+      "source_name": "AKWF_oboe_0010.wav",
+      "centroid": 0.003237
+    },
+    {
+      "index": 8,
+      "source_name": "AKWF_oboe_0003.wav",
+      "centroid": 0.004444
+    },
+    {
+      "index": 9,
+      "source_name": "AKWF_oboe_0012.wav",
+      "centroid": 0.005531
+    },
+    {
+      "index": 10,
+      "source_name": "AKWF_oboe_0011.wav",
+      "centroid": 0.005795
+    },
+    {
+      "index": 11,
+      "source_name": "AKWF_oboe_0013.wav",
+      "centroid": 0.006121
+    },
+    {
+      "index": 12,
+      "source_name": "AKWF_oboe_0002.wav",
+      "centroid": 0.006299
+    }
+  ]
+}

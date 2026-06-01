@@ -1,0 +1,1008 @@
+{
+  "source": "upstream/AKWF/AKWF/AKWF_stereo",
+  "frame_size": 2048,
+  "frame_count": 200,
+  "direction": "dark_to_bright",
+  "frames": [
+    {
+      "index": 0,
+      "source_name": "AKWF_stereo_0075.wav",
+      "centroid": 0.001424
+    },
+    {
+      "index": 1,
+      "source_name": "AKWF_stereo_0074.wav",
+      "centroid": 0.0015
+    },
+    {
+      "index": 2,
+      "source_name": "AKWF_stereo_0145.wav",
+      "centroid": 0.001545
+    },
+    {
+      "index": 3,
+      "source_name": "AKWF_stereo_0081.wav",
+      "centroid": 0.001563
+    },
+    {
+      "index": 4,
+      "source_name": "AKWF_stereo_0144.wav",
+      "centroid": 0.001736
+    },
+    {
+      "index": 5,
+      "source_name": "AKWF_stereo_0045.wav",
+      "centroid": 0.001739
+    },
+    {
+      "index": 6,
+      "source_name": "AKWF_stereo_0020.wav",
+      "centroid": 0.001765
+    },
+    {
+      "index": 7,
+      "source_name": "AKWF_stereo_0155.wav",
+      "centroid": 0.001776
+    },
+    {
+      "index": 8,
+      "source_name": "AKWF_stereo_0154.wav",
+      "centroid": 0.001783
+    },
+    {
+      "index": 9,
+      "source_name": "AKWF_stereo_0090.wav",
+      "centroid": 0.001922
+    },
+    {
+      "index": 10,
+      "source_name": "AKWF_stereo_0080.wav",
+      "centroid": 0.002004
+    },
+    {
+      "index": 11,
+      "source_name": "AKWF_stereo_0031.wav",
+      "centroid": 0.002013
+    },
+    {
+      "index": 12,
+      "source_name": "AKWF_stereo_0092.wav",
+      "centroid": 0.002018
+    },
+    {
+      "index": 13,
+      "source_name": "AKWF_stereo_0187.wav",
+      "centroid": 0.002045
+    },
+    {
+      "index": 14,
+      "source_name": "AKWF_stereo_0178.wav",
+      "centroid": 0.002053
+    },
+    {
+      "index": 15,
+      "source_name": "AKWF_stereo_0195.wav",
+      "centroid": 0.002059
+    },
+    {
+      "index": 16,
+      "source_name": "AKWF_stereo_0160.wav",
+      "centroid": 0.002106
+    },
+    {
+      "index": 17,
+      "source_name": "AKWF_stereo_0041.wav",
+      "centroid": 0.00211
+    },
+    {
+      "index": 18,
+      "source_name": "AKWF_stereo_0055.wav",
+      "centroid": 0.002148
+    },
+    {
+      "index": 19,
+      "source_name": "AKWF_stereo_0174.wav",
+      "centroid": 0.002155
+    },
+    {
+      "index": 20,
+      "source_name": "AKWF_stereo_0188.wav",
+      "centroid": 0.002182
+    },
+    {
+      "index": 21,
+      "source_name": "AKWF_stereo_0172.wav",
+      "centroid": 0.002253
+    },
+    {
+      "index": 22,
+      "source_name": "AKWF_stereo_0122.wav",
+      "centroid": 0.002256
+    },
+    {
+      "index": 23,
+      "source_name": "AKWF_stereo_0116.wav",
+      "centroid": 0.002356
+    },
+    {
+      "index": 24,
+      "source_name": "AKWF_stereo_0036.wav",
+      "centroid": 0.002375
+    },
+    {
+      "index": 25,
+      "source_name": "AKWF_stereo_0137.wav",
+      "centroid": 0.002432
+    },
+    {
+      "index": 26,
+      "source_name": "AKWF_stereo_0135.wav",
+      "centroid": 0.002491
+    },
+    {
+      "index": 27,
+      "source_name": "AKWF_stereo_0161.wav",
+      "centroid": 0.002502
+    },
+    {
+      "index": 28,
+      "source_name": "AKWF_stereo_0131.wav",
+      "centroid": 0.002548
+    },
+    {
+      "index": 29,
+      "source_name": "AKWF_stereo_0125.wav",
+      "centroid": 0.002564
+    },
+    {
+      "index": 30,
+      "source_name": "AKWF_stereo_0169.wav",
+      "centroid": 0.002575
+    },
+    {
+      "index": 31,
+      "source_name": "AKWF_stereo_0095.wav",
+      "centroid": 0.002604
+    },
+    {
+      "index": 32,
+      "source_name": "AKWF_stereo_0021.wav",
+      "centroid": 0.002629
+    },
+    {
+      "index": 33,
+      "source_name": "AKWF_stereo_0185.wav",
+      "centroid": 0.002635
+    },
+    {
+      "index": 34,
+      "source_name": "AKWF_stereo_0189.wav",
+      "centroid": 0.002675
+    },
+    {
+      "index": 35,
+      "source_name": "AKWF_stereo_0136.wav",
+      "centroid": 0.002676
+    },
+    {
+      "index": 36,
+      "source_name": "AKWF_stereo_0042.wav",
+      "centroid": 0.002707
+    },
+    {
+      "index": 37,
+      "source_name": "AKWF_stereo_0184.wav",
+      "centroid": 0.002713
+    },
+    {
+      "index": 38,
+      "source_name": "AKWF_stereo_0196.wav",
+      "centroid": 0.002786
+    },
+    {
+      "index": 39,
+      "source_name": "AKWF_stereo_0138.wav",
+      "centroid": 0.002919
+    },
+    {
+      "index": 40,
+      "source_name": "AKWF_stereo_0192.wav",
+      "centroid": 0.002924
+    },
+    {
+      "index": 41,
+      "source_name": "AKWF_stereo_0094.wav",
+      "centroid": 0.003076
+    },
+    {
+      "index": 42,
+      "source_name": "AKWF_stereo_0200.wav",
+      "centroid": 0.003135
+    },
+    {
+      "index": 43,
+      "source_name": "AKWF_stereo_0168.wav",
+      "centroid": 0.003166
+    },
+    {
+      "index": 44,
+      "source_name": "AKWF_stereo_0114.wav",
+      "centroid": 0.00322
+    },
+    {
+      "index": 45,
+      "source_name": "AKWF_stereo_0039.wav",
+      "centroid": 0.003292
+    },
+    {
+      "index": 46,
+      "source_name": "AKWF_stereo_0162.wav",
+      "centroid": 0.003317
+    },
+    {
+      "index": 47,
+      "source_name": "AKWF_stereo_0198.wav",
+      "centroid": 0.003429
+    },
+    {
+      "index": 48,
+      "source_name": "AKWF_stereo_0133.wav",
+      "centroid": 0.003467
+    },
+    {
+      "index": 49,
+      "source_name": "AKWF_stereo_0087.wav",
+      "centroid": 0.003518
+    },
+    {
+      "index": 50,
+      "source_name": "AKWF_stereo_0030.wav",
+      "centroid": 0.00362
+    },
+    {
+      "index": 51,
+      "source_name": "AKWF_stereo_0152.wav",
+      "centroid": 0.003655
+    },
+    {
+      "index": 52,
+      "source_name": "AKWF_stereo_0194.wav",
+      "centroid": 0.003739
+    },
+    {
+      "index": 53,
+      "source_name": "AKWF_stereo_0191.wav",
+      "centroid": 0.003744
+    },
+    {
+      "index": 54,
+      "source_name": "AKWF_stereo_0183.wav",
+      "centroid": 0.003751
+    },
+    {
+      "index": 55,
+      "source_name": "AKWF_stereo_0130.wav",
+      "centroid": 0.003757
+    },
+    {
+      "index": 56,
+      "source_name": "AKWF_stereo_0017.wav",
+      "centroid": 0.003779
+    },
+    {
+      "index": 57,
+      "source_name": "AKWF_stereo_0181.wav",
+      "centroid": 0.003815
+    },
+    {
+      "index": 58,
+      "source_name": "AKWF_stereo_0151.wav",
+      "centroid": 0.003862
+    },
+    {
+      "index": 59,
+      "source_name": "AKWF_stereo_0121.wav",
+      "centroid": 0.003882
+    },
+    {
+      "index": 60,
+      "source_name": "AKWF_stereo_0182.wav",
+      "centroid": 0.003938
+    },
+    {
+      "index": 61,
+      "source_name": "AKWF_stereo_0150.wav",
+      "centroid": 0.004003
+    },
+    {
+      "index": 62,
+      "source_name": "AKWF_stereo_0103.wav",
+      "centroid": 0.004006
+    },
+    {
+      "index": 63,
+      "source_name": "AKWF_stereo_0029.wav",
+      "centroid": 0.00405
+    },
+    {
+      "index": 64,
+      "source_name": "AKWF_stereo_0027.wav",
+      "centroid": 0.004108
+    },
+    {
+      "index": 65,
+      "source_name": "AKWF_stereo_0113.wav",
+      "centroid": 0.004139
+    },
+    {
+      "index": 66,
+      "source_name": "AKWF_stereo_0142.wav",
+      "centroid": 0.004341
+    },
+    {
+      "index": 67,
+      "source_name": "AKWF_stereo_0106.wav",
+      "centroid": 0.004362
+    },
+    {
+      "index": 68,
+      "source_name": "AKWF_stereo_0038.wav",
+      "centroid": 0.004375
+    },
+    {
+      "index": 69,
+      "source_name": "AKWF_stereo_0093.wav",
+      "centroid": 0.004493
+    },
+    {
+      "index": 70,
+      "source_name": "AKWF_stereo_0134.wav",
+      "centroid": 0.004495
+    },
+    {
+      "index": 71,
+      "source_name": "AKWF_stereo_0034.wav",
+      "centroid": 0.00455
+    },
+    {
+      "index": 72,
+      "source_name": "AKWF_stereo_0175.wav",
+      "centroid": 0.004583
+    },
+    {
+      "index": 73,
+      "source_name": "AKWF_stereo_0176.wav",
+      "centroid": 0.004705
+    },
+    {
+      "index": 74,
+      "source_name": "AKWF_stereo_0180.wav",
+      "centroid": 0.004745
+    },
+    {
+      "index": 75,
+      "source_name": "AKWF_stereo_0132.wav",
+      "centroid": 0.004765
+    },
+    {
+      "index": 76,
+      "source_name": "AKWF_stereo_0129.wav",
+      "centroid": 0.004768
+    },
+    {
+      "index": 77,
+      "source_name": "AKWF_stereo_0025.wav",
+      "centroid": 0.004863
+    },
+    {
+      "index": 78,
+      "source_name": "AKWF_stereo_0124.wav",
+      "centroid": 0.004932
+    },
+    {
+      "index": 79,
+      "source_name": "AKWF_stereo_0140.wav",
+      "centroid": 0.005062
+    },
+    {
+      "index": 80,
+      "source_name": "AKWF_stereo_0028.wav",
+      "centroid": 0.005095
+    },
+    {
+      "index": 81,
+      "source_name": "AKWF_stereo_0098.wav",
+      "centroid": 0.005214
+    },
+    {
+      "index": 82,
+      "source_name": "AKWF_stereo_0128.wav",
+      "centroid": 0.005268
+    },
+    {
+      "index": 83,
+      "source_name": "AKWF_stereo_0037.wav",
+      "centroid": 0.005317
+    },
+    {
+      "index": 84,
+      "source_name": "AKWF_stereo_0003.wav",
+      "centroid": 0.005332
+    },
+    {
+      "index": 85,
+      "source_name": "AKWF_stereo_0186.wav",
+      "centroid": 0.005383
+    },
+    {
+      "index": 86,
+      "source_name": "AKWF_stereo_0153.wav",
+      "centroid": 0.005577
+    },
+    {
+      "index": 87,
+      "source_name": "AKWF_stereo_0033.wav",
+      "centroid": 0.005683
+    },
+    {
+      "index": 88,
+      "source_name": "AKWF_stereo_0197.wav",
+      "centroid": 0.005797
+    },
+    {
+      "index": 89,
+      "source_name": "AKWF_stereo_0170.wav",
+      "centroid": 0.00587
+    },
+    {
+      "index": 90,
+      "source_name": "AKWF_stereo_0177.wav",
+      "centroid": 0.005954
+    },
+    {
+      "index": 91,
+      "source_name": "AKWF_stereo_0117.wav",
+      "centroid": 0.006513
+    },
+    {
+      "index": 92,
+      "source_name": "AKWF_stereo_0088.wav",
+      "centroid": 0.006528
+    },
+    {
+      "index": 93,
+      "source_name": "AKWF_stereo_0193.wav",
+      "centroid": 0.006567
+    },
+    {
+      "index": 94,
+      "source_name": "AKWF_stereo_0190.wav",
+      "centroid": 0.006581
+    },
+    {
+      "index": 95,
+      "source_name": "AKWF_stereo_0147.wav",
+      "centroid": 0.006645
+    },
+    {
+      "index": 96,
+      "source_name": "AKWF_stereo_0119.wav",
+      "centroid": 0.006804
+    },
+    {
+      "index": 97,
+      "source_name": "AKWF_stereo_0061.wav",
+      "centroid": 0.007075
+    },
+    {
+      "index": 98,
+      "source_name": "AKWF_stereo_0102.wav",
+      "centroid": 0.007194
+    },
+    {
+      "index": 99,
+      "source_name": "AKWF_stereo_0179.wav",
+      "centroid": 0.007233
+    },
+    {
+      "index": 100,
+      "source_name": "AKWF_stereo_0123.wav",
+      "centroid": 0.007268
+    },
+    {
+      "index": 101,
+      "source_name": "AKWF_stereo_0060.wav",
+      "centroid": 0.007342
+    },
+    {
+      "index": 102,
+      "source_name": "AKWF_stereo_0005.wav",
+      "centroid": 0.007501
+    },
+    {
+      "index": 103,
+      "source_name": "AKWF_stereo_0040.wav",
+      "centroid": 0.00757
+    },
+    {
+      "index": 104,
+      "source_name": "AKWF_stereo_0051.wav",
+      "centroid": 0.007921
+    },
+    {
+      "index": 105,
+      "source_name": "AKWF_stereo_0108.wav",
+      "centroid": 0.008017
+    },
+    {
+      "index": 106,
+      "source_name": "AKWF_stereo_0084.wav",
+      "centroid": 0.008211
+    },
+    {
+      "index": 107,
+      "source_name": "AKWF_stereo_0199.wav",
+      "centroid": 0.008242
+    },
+    {
+      "index": 108,
+      "source_name": "AKWF_stereo_0067.wav",
+      "centroid": 0.008334
+    },
+    {
+      "index": 109,
+      "source_name": "AKWF_stereo_0078.wav",
+      "centroid": 0.008408
+    },
+    {
+      "index": 110,
+      "source_name": "AKWF_stereo_0143.wav",
+      "centroid": 0.008568
+    },
+    {
+      "index": 111,
+      "source_name": "AKWF_stereo_0062.wav",
+      "centroid": 0.009306
+    },
+    {
+      "index": 112,
+      "source_name": "AKWF_stereo_0167.wav",
+      "centroid": 0.009728
+    },
+    {
+      "index": 113,
+      "source_name": "AKWF_stereo_0026.wav",
+      "centroid": 0.009811
+    },
+    {
+      "index": 114,
+      "source_name": "AKWF_stereo_0164.wav",
+      "centroid": 0.009939
+    },
+    {
+      "index": 115,
+      "source_name": "AKWF_stereo_0032.wav",
+      "centroid": 0.010152
+    },
+    {
+      "index": 116,
+      "source_name": "AKWF_stereo_0052.wav",
+      "centroid": 0.010317
+    },
+    {
+      "index": 117,
+      "source_name": "AKWF_stereo_0004.wav",
+      "centroid": 0.010474
+    },
+    {
+      "index": 118,
+      "source_name": "AKWF_stereo_0173.wav",
+      "centroid": 0.010757
+    },
+    {
+      "index": 119,
+      "source_name": "AKWF_stereo_0065.wav",
+      "centroid": 0.010769
+    },
+    {
+      "index": 120,
+      "source_name": "AKWF_stereo_0089.wav",
+      "centroid": 0.011293
+    },
+    {
+      "index": 121,
+      "source_name": "AKWF_stereo_0063.wav",
+      "centroid": 0.011821
+    },
+    {
+      "index": 122,
+      "source_name": "AKWF_stereo_0066.wav",
+      "centroid": 0.011849
+    },
+    {
+      "index": 123,
+      "source_name": "AKWF_stereo_0044.wav",
+      "centroid": 0.01198
+    },
+    {
+      "index": 124,
+      "source_name": "AKWF_stereo_0019.wav",
+      "centroid": 0.012531
+    },
+    {
+      "index": 125,
+      "source_name": "AKWF_stereo_0013.wav",
+      "centroid": 0.012542
+    },
+    {
+      "index": 126,
+      "source_name": "AKWF_stereo_0059.wav",
+      "centroid": 0.014134
+    },
+    {
+      "index": 127,
+      "source_name": "AKWF_stereo_0011.wav",
+      "centroid": 0.014667
+    },
+    {
+      "index": 128,
+      "source_name": "AKWF_stereo_0007.wav",
+      "centroid": 0.014682
+    },
+    {
+      "index": 129,
+      "source_name": "AKWF_stereo_0097.wav",
+      "centroid": 0.01556
+    },
+    {
+      "index": 130,
+      "source_name": "AKWF_stereo_0023.wav",
+      "centroid": 0.016427
+    },
+    {
+      "index": 131,
+      "source_name": "AKWF_stereo_0053.wav",
+      "centroid": 0.018704
+    },
+    {
+      "index": 132,
+      "source_name": "AKWF_stereo_0043.wav",
+      "centroid": 0.01871
+    },
+    {
+      "index": 133,
+      "source_name": "AKWF_stereo_0064.wav",
+      "centroid": 0.019149
+    },
+    {
+      "index": 134,
+      "source_name": "AKWF_stereo_0050.wav",
+      "centroid": 0.020888
+    },
+    {
+      "index": 135,
+      "source_name": "AKWF_stereo_0022.wav",
+      "centroid": 0.021883
+    },
+    {
+      "index": 136,
+      "source_name": "AKWF_stereo_0149.wav",
+      "centroid": 0.022632
+    },
+    {
+      "index": 137,
+      "source_name": "AKWF_stereo_0100.wav",
+      "centroid": 0.022945
+    },
+    {
+      "index": 138,
+      "source_name": "AKWF_stereo_0159.wav",
+      "centroid": 0.023259
+    },
+    {
+      "index": 139,
+      "source_name": "AKWF_stereo_0158.wav",
+      "centroid": 0.02426
+    },
+    {
+      "index": 140,
+      "source_name": "AKWF_stereo_0008.wav",
+      "centroid": 0.024315
+    },
+    {
+      "index": 141,
+      "source_name": "AKWF_stereo_0024.wav",
+      "centroid": 0.024318
+    },
+    {
+      "index": 142,
+      "source_name": "AKWF_stereo_0105.wav",
+      "centroid": 0.025209
+    },
+    {
+      "index": 143,
+      "source_name": "AKWF_stereo_0009.wav",
+      "centroid": 0.025476
+    },
+    {
+      "index": 144,
+      "source_name": "AKWF_stereo_0146.wav",
+      "centroid": 0.025791
+    },
+    {
+      "index": 145,
+      "source_name": "AKWF_stereo_0157.wav",
+      "centroid": 0.025819
+    },
+    {
+      "index": 146,
+      "source_name": "AKWF_stereo_0148.wav",
+      "centroid": 0.027485
+    },
+    {
+      "index": 147,
+      "source_name": "AKWF_stereo_0054.wav",
+      "centroid": 0.027495
+    },
+    {
+      "index": 148,
+      "source_name": "AKWF_stereo_0166.wav",
+      "centroid": 0.028604
+    },
+    {
+      "index": 149,
+      "source_name": "AKWF_stereo_0126.wav",
+      "centroid": 0.029095
+    },
+    {
+      "index": 150,
+      "source_name": "AKWF_stereo_0115.wav",
+      "centroid": 0.029247
+    },
+    {
+      "index": 151,
+      "source_name": "AKWF_stereo_0111.wav",
+      "centroid": 0.02937
+    },
+    {
+      "index": 152,
+      "source_name": "AKWF_stereo_0010.wav",
+      "centroid": 0.030076
+    },
+    {
+      "index": 153,
+      "source_name": "AKWF_stereo_0127.wav",
+      "centroid": 0.030321
+    },
+    {
+      "index": 154,
+      "source_name": "AKWF_stereo_0076.wav",
+      "centroid": 0.030407
+    },
+    {
+      "index": 155,
+      "source_name": "AKWF_stereo_0163.wav",
+      "centroid": 0.030831
+    },
+    {
+      "index": 156,
+      "source_name": "AKWF_stereo_0077.wav",
+      "centroid": 0.031426
+    },
+    {
+      "index": 157,
+      "source_name": "AKWF_stereo_0110.wav",
+      "centroid": 0.035635
+    },
+    {
+      "index": 158,
+      "source_name": "AKWF_stereo_0073.wav",
+      "centroid": 0.03628
+    },
+    {
+      "index": 159,
+      "source_name": "AKWF_stereo_0047.wav",
+      "centroid": 0.038858
+    },
+    {
+      "index": 160,
+      "source_name": "AKWF_stereo_0165.wav",
+      "centroid": 0.041307
+    },
+    {
+      "index": 161,
+      "source_name": "AKWF_stereo_0046.wav",
+      "centroid": 0.042735
+    },
+    {
+      "index": 162,
+      "source_name": "AKWF_stereo_0101.wav",
+      "centroid": 0.043188
+    },
+    {
+      "index": 163,
+      "source_name": "AKWF_stereo_0120.wav",
+      "centroid": 0.043293
+    },
+    {
+      "index": 164,
+      "source_name": "AKWF_stereo_0083.wav",
+      "centroid": 0.043682
+    },
+    {
+      "index": 165,
+      "source_name": "AKWF_stereo_0012.wav",
+      "centroid": 0.044068
+    },
+    {
+      "index": 166,
+      "source_name": "AKWF_stereo_0058.wav",
+      "centroid": 0.045379
+    },
+    {
+      "index": 167,
+      "source_name": "AKWF_stereo_0171.wav",
+      "centroid": 0.045916
+    },
+    {
+      "index": 168,
+      "source_name": "AKWF_stereo_0068.wav",
+      "centroid": 0.046309
+    },
+    {
+      "index": 169,
+      "source_name": "AKWF_stereo_0070.wav",
+      "centroid": 0.046647
+    },
+    {
+      "index": 170,
+      "source_name": "AKWF_stereo_0099.wav",
+      "centroid": 0.047759
+    },
+    {
+      "index": 171,
+      "source_name": "AKWF_stereo_0107.wav",
+      "centroid": 0.048066
+    },
+    {
+      "index": 172,
+      "source_name": "AKWF_stereo_0002.wav",
+      "centroid": 0.048236
+    },
+    {
+      "index": 173,
+      "source_name": "AKWF_stereo_0141.wav",
+      "centroid": 0.051068
+    },
+    {
+      "index": 174,
+      "source_name": "AKWF_stereo_0035.wav",
+      "centroid": 0.051896
+    },
+    {
+      "index": 175,
+      "source_name": "AKWF_stereo_0079.wav",
+      "centroid": 0.052691
+    },
+    {
+      "index": 176,
+      "source_name": "AKWF_stereo_0069.wav",
+      "centroid": 0.053506
+    },
+    {
+      "index": 177,
+      "source_name": "AKWF_stereo_0016.wav",
+      "centroid": 0.053858
+    },
+    {
+      "index": 178,
+      "source_name": "AKWF_stereo_0015.wav",
+      "centroid": 0.054412
+    },
+    {
+      "index": 179,
+      "source_name": "AKWF_stereo_0048.wav",
+      "centroid": 0.054443
+    },
+    {
+      "index": 180,
+      "source_name": "AKWF_stereo_0085.wav",
+      "centroid": 0.054683
+    },
+    {
+      "index": 181,
+      "source_name": "AKWF_stereo_0001.wav",
+      "centroid": 0.059972
+    },
+    {
+      "index": 182,
+      "source_name": "AKWF_stereo_0082.wav",
+      "centroid": 0.060426
+    },
+    {
+      "index": 183,
+      "source_name": "AKWF_stereo_0156.wav",
+      "centroid": 0.060897
+    },
+    {
+      "index": 184,
+      "source_name": "AKWF_stereo_0018.wav",
+      "centroid": 0.061619
+    },
+    {
+      "index": 185,
+      "source_name": "AKWF_stereo_0091.wav",
+      "centroid": 0.062562
+    },
+    {
+      "index": 186,
+      "source_name": "AKWF_stereo_0109.wav",
+      "centroid": 0.064429
+    },
+    {
+      "index": 187,
+      "source_name": "AKWF_stereo_0139.wav",
+      "centroid": 0.064565
+    },
+    {
+      "index": 188,
+      "source_name": "AKWF_stereo_0049.wav",
+      "centroid": 0.064786
+    },
+    {
+      "index": 189,
+      "source_name": "AKWF_stereo_0104.wav",
+      "centroid": 0.065066
+    },
+    {
+      "index": 190,
+      "source_name": "AKWF_stereo_0006.wav",
+      "centroid": 0.067944
+    },
+    {
+      "index": 191,
+      "source_name": "AKWF_stereo_0057.wav",
+      "centroid": 0.072222
+    },
+    {
+      "index": 192,
+      "source_name": "AKWF_stereo_0056.wav",
+      "centroid": 0.07432
+    },
+    {
+      "index": 193,
+      "source_name": "AKWF_stereo_0086.wav",
+      "centroid": 0.080211
+    },
+    {
+      "index": 194,
+      "source_name": "AKWF_stereo_0096.wav",
+      "centroid": 0.085437
+    },
+    {
+      "index": 195,
+      "source_name": "AKWF_stereo_0118.wav",
+      "centroid": 0.087159
+    },
+    {
+      "index": 196,
+      "source_name": "AKWF_stereo_0112.wav",
+      "centroid": 0.102215
+    },
+    {
+      "index": 197,
+      "source_name": "AKWF_stereo_0014.wav",
+      "centroid": 0.105038
+    },
+    {
+      "index": 198,
+      "source_name": "AKWF_stereo_0072.wav",
+      "centroid": 0.108553
+    },
+    {
+      "index": 199,
+      "source_name": "AKWF_stereo_0071.wav",
+      "centroid": 0.14671
+    }
+  ]
+}
